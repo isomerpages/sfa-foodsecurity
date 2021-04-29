@@ -2,8 +2,8 @@ title: Our Food Future
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#fcc769"
-  secondary-color: "#ffdfb5"
+  primary-color: "#f5a623"
+  secondary-color: "#fcc374"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,4 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://sfa-foodsecurity-staging.netlify.app
 prod: https://sfa-foodsecurity-prod.netlify.app
-is_government: false
+is_government: true
