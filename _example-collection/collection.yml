@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - example-page.md
+      - master-planning-lim-chu-kang.md
