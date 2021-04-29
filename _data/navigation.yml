@@ -1,12 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Example Resources
-    resource_room: true
+  - title: Master Planning Lim Chu Kang
+    collection: master-planning-lck
   - title: Get Involved
     collection: get-involved
+  - title: Resources
+    resource_room: true
