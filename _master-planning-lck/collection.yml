@@ -2,5 +2,4 @@ collections:
   master-planning-lck:
     output: true
     order:
-      - example-page.md
       - our-vision.md
