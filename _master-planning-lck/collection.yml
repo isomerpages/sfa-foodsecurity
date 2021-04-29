@@ -1,5 +1,5 @@
 collections:
-  example-collection:
+  master-planning-lck:
     output: true
     order:
       - example-page.md
