@@ -1,5 +1,6 @@
 ---
-title: What you can do
-permalink: /getinvolved/whatyoucando
+title: What You Can Do
+permalink: /get-involved/whatyoucando
 ---
+
 xxx
