@@ -9,7 +9,7 @@ sections:
   - hero:
       title: SHAPE OUR FOOD FUTURE
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/coverphoto.png
       url: /contact-us/
       key_highlights:
         - title: achieving 30 by 30
@@ -28,14 +28,14 @@ sections:
         of our nutritional needs on local soil by 2030.
       button: Button Text
       alt: Image alt text
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
