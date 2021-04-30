@@ -16,7 +16,7 @@ sections:
           url: ""
   - infopic:
       title: OUR FOOD FUTURE
-      description: TO LOOK LIKE?
+      description: TO LOOK LIKE? (video here)
       alt: Image alt text
       image: /images/hydrourban.jpeg
       subtitle: how do you envision
