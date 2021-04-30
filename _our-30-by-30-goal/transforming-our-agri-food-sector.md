@@ -11,7 +11,7 @@ For example, some farms have tapped on technology such as indoor multi-storey LE
 
 To support our local farms in adopting technology, the Singapore Food Agency has introduced funding schemes. For example, a $60 million Agri-Food Cluster Transformation Fund which provides funding support for farms to build and expand their production capabilities and capacities was launched this year. Over $23 million in funding was also awarded for R&D in sustainable urban food production.  
 
-![](/images/chew.jpg)
+![](/images/BA.JPG)
 
 At the same time, we will be master planning the Lim Chu Kang area into a high-tech, highly productive and resource-efficient agri-food cluster. We are also looking into the expansion of sustainable fish farming in the deeper Southern Waters of Singapore to boost local fish production.   
 
