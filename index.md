@@ -9,23 +9,16 @@ sections:
   - hero:
       title: SHAPING OUR FOOD FUTURE
       background: /images/coverphoto2.png
-      dropdown:
-        title: BE A PART OF IT
-        options:
-          - title: What you can do
-            url: get-involved/whatyoucando
-          - title: Share your ideas
-            url: get-involved/shareyourideas
   - infopic:
       title: OUR FOOD FUTURE
-      description: TO LOOK LIKE? (video here)
+      description: TO LOOK LIKE? (video on right)
       alt: Image alt text
       image: /images/coverphoto.png
       subtitle: how do you envision
   - infopic:
       title: What is our '30 by 30' goal?
-      description: To increase local production such that we are able to produce 30%
-        of our nutritional needs on local soil by 2030.
+      description: To increase local production so that we are able to produce 30% of
+        our nutritional needs on local soil by 2030.
       alt: Image alt text
       image: /images/apollo.jpg
   - infopic:
@@ -44,6 +37,7 @@ sections:
       url: https://form.gov.sg/#!/608b731a5320380011879a8e
       image: /images/meod.png
       alt: Image alt text
+      description: From growing more with less to supporting local produce
   - infopic:
       title: What you can do
       description: In the same way it takes a village to raise a child, it takes a
