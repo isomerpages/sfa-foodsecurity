@@ -21,6 +21,8 @@ sections:
         our nutritional needs on local soil by 2030.
       alt: Image alt text
       image: /images/apollo.jpg
+      button: Read more
+      url: our-30by30-goal
   - infopic:
       title: Raising local food production
       description: Beyond supporting our farms to grow more with less, we will also be
