@@ -49,6 +49,6 @@ sections:
       alt: Image alt text
       image: /images/cwg1.jpeg
   - resources:
-      title: READ MORE
+      title: Read more
       button: more
 ---
