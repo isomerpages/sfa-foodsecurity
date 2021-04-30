@@ -2,10 +2,11 @@
 title: Road map
 permalink: /master-planning-lck/roadmap
 ---
-Share with us your views on how we can enhance our food security through local food production and join our Workgroup to come up with ideas and vision for the Lim Chu Kang area.  
+Do you have ideas on how the Lim Chu Kang agri-food cluster can look like? Are you eager to contribute to discussions on our food future?
 
-As a Workgroup participant, you will get to work with other participants to identify and discuss ideas to create a vibrant and attractive agri-food cluster in Lim Chu Kang, and contribute towards our food security.
+In the spirit of the Singapore Together movement, we are working with the public and industry to co-create our vision for Lim Chu Kang.
 
-You will also have the opportunity to learn from and speak with subject matter experts in the agri-food industry and gain a deeper understanding of Singapore’s food security and agri-food landscape.
+As part of this engagement process, we are organising a series of Workgroup sessions from May to October 2021 for the public and industry to come together to identify and discuss ideas to create a vibrant and attractive agri-food cluster. These include focus group discussions and curated workshops for Workgroup participants to work on their ideas and recommendations. 
 
-This will be done over a series of Workgroup sessions conducted physically and/or virtually from May to October 2021. These include focus group discussions and curated workshops for selected participants to work on their ideas and recommendations. Proposals by the Workgroup will be reviewed and may be included in the Lim Chu Kang master plan.
+
+Proposals by the Workgroup will be reviewed and may be included in the Lim Chu Kang master plan. Development works are expected to commence in 2024 and will be carried out in phases.
