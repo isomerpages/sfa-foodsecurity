@@ -34,17 +34,20 @@ sections:
       image: /images/meod.png
       alt: Image alt text
   - infopic:
-      title: HOW WE WILL ACHIEVE IT
-      subtitle: Infopic Subtitle
-      description: Infopic description
+      title: Getting to '30 by 30'
+      description: We are supporting our farms to grow more with less. We will also be
+        master planning the Lim Chu Kang area into a high-tech agri-food
+        cluster.
       button: Button Text
       alt: Image alt text
+      image: /images/SAT.jpg
   - infopic:
-      title: WHAT YOU CAN DO
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: What you can do
+      description: In the same way it takes a village to raise a child, it takes a
+        nation to feed our people.  Whatever our background or interest, all of
+        us can to play a part.
       alt: Image alt text
+      image: /images/cwg1.jpeg
   - resources:
       title: READ MORE
       button: more
