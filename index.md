@@ -9,11 +9,13 @@ sections:
   - hero:
       title: SHAPING OUR FOOD FUTURE
       background: /images/coverphoto2.png
-      url: /contact-us/
-      key_highlights:
-        - title: SHARE WITH US YOUR IDEAS
-          description: ""
-          url: ""
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: Master Planning Lim Chu Kang
+            url: master-planning-lck
+          - title: Get involved
+            url: get-involved
   - infopic:
       title: OUR FOOD FUTURE
       description: TO LOOK LIKE? (video here)
