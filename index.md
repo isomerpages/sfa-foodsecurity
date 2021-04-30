@@ -22,7 +22,7 @@ sections:
       alt: Image alt text
       image: /images/apollo.jpg
       button: Read more
-      url: our-30by30-goal
+      url: our-30-by-30-goal
   - infopic:
       title: Raising local food production
       description: Beyond supporting our farms to grow more with less, we will also be
@@ -39,7 +39,6 @@ sections:
       url: https://form.gov.sg/#!/608b731a5320380011879a8e
       image: /images/meod.png
       alt: Image alt text
-      description: From growing more with less to supporting local produce
   - infopic:
       title: What you can do
       description: In the same way it takes a village to raise a child, it takes a
