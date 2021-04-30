@@ -11,7 +11,7 @@ sections:
       background: /images/coverphoto2.png
   - infopic:
       title: OUR FOOD FUTURE
-      description: TO LOOK LIKE? (video on right)
+      description: TO BE? (video on right)
       alt: Image alt text
       image: /images/coverphoto.png
       subtitle: how do you envision
@@ -47,7 +47,7 @@ sections:
       alt: Image alt text
       image: /images/cwg1.jpeg
       button: GET INVOLVED
-      url: get-involved
+      url: get-involved/whatyoucando
   - resources:
       title: Read more
       button: more
