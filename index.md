@@ -12,17 +12,15 @@ sections:
       dropdown:
         title: BE A PART OF IT
         options:
-          - title: Master Planning Lim Chu Kang
-            url: master-planning-lck
-          - title: Get involved
-            url: get-involved
+          - title: What you can do
+            url: get-involved/whatyoucando
           - title: Share your ideas
-            url: ""
+            url: get-involved/shareyourideas
   - infopic:
       title: OUR FOOD FUTURE
       description: TO LOOK LIKE? (video here)
       alt: Image alt text
-      image: /images/hydrourban.jpeg
+      image: /images/coverphoto.png
       subtitle: how do you envision
   - infopic:
       title: What is our '30 by 30' goal?
@@ -31,20 +29,21 @@ sections:
       alt: Image alt text
       image: /images/apollo.jpg
   - infopic:
-      title: Share your views with us
-      subtitle: from growing to buying local
-      button: LET US KNOW
+      title: Raising local food production
+      description: Beyond supporting our farms to grow more with less, we will also be
+        master planning the Lim Chu Kang area into a high-tech agri-food
+        cluster.
+      button: read more
+      alt: Image alt text
+      image: /images/netatech2.jpg
+      url: master-planning-lck
+  - infopic:
+      title: How can we make it a reality?
+      subtitle: towards '30 by 30'
+      button: Share with us
       url: https://form.gov.sg/#!/608b731a5320380011879a8e
       image: /images/meod.png
       alt: Image alt text
-  - infopic:
-      title: Getting to '30 by 30'
-      description: We are supporting our farms to grow more with less. We will also be
-        master planning the Lim Chu Kang area into a high-tech agri-food
-        cluster.
-      button: Button Text
-      alt: Image alt text
-      image: /images/SAT.jpg
   - infopic:
       title: What you can do
       description: In the same way it takes a village to raise a child, it takes a
@@ -52,6 +51,8 @@ sections:
         us can to play a part.
       alt: Image alt text
       image: /images/cwg1.jpeg
+      button: GET INVOLVED
+      url: get-involved
   - resources:
       title: Read more
       button: more
