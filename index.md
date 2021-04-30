@@ -22,7 +22,7 @@ sections:
       alt: Image alt text
       image: /images/apollo.jpg
       button: Read more
-      url: our-30-by-30-goal
+      url: our-30-by-30-goal/agri-food
   - infopic:
       title: Raising local food production
       description: Beyond supporting our farms to grow more with less, we will also be
