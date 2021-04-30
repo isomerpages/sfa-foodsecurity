@@ -15,16 +15,16 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: What is our '30 by 30' goal?
-      subtitle: Infopic Subtitle
-      description: To increase local production such that we are able to produce 30%
-        of our nutritional needs on local soil by 2030.
-      alt: Image alt text
-  - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: What is our '30 by 30' goal?
+      subtitle: Infopic Subtitle
+      description: To increase local production such that we are able to produce 30%
+        of our nutritional needs on local soil by 2030.
       alt: Image alt text
   - infopic:
       title: HOW WE WILL ACHIEVE IT
