@@ -27,6 +27,13 @@ sections:
       alt: Image alt text
       image: /images/apollo.jpg
   - infopic:
+      title: Share your views with us
+      subtitle: from growing to buying local
+      button: LET US KNOW
+      url: https://form.gov.sg/#!/608b731a5320380011879a8e
+      image: /images/meod.png
+      alt: Image alt text
+  - infopic:
       title: HOW WE WILL ACHIEVE IT
       subtitle: Infopic Subtitle
       description: Infopic description
@@ -41,8 +48,4 @@ sections:
   - resources:
       title: READ MORE
       button: more
-  - infobar:
-      title: LOCAL FOOD PRODUCTION
-      subtitle: POLL ON
-      description: PENDING (go.gov.sg/localfoodproduction)
 ---
