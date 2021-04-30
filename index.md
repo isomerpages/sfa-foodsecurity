@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: SHAPING OUR FOOD FUTURE
-      background: /images/coverphoto.png
+      background: /images/coverphoto2.png
       url: /contact-us/
       key_highlights:
         - title: SHARE WITH US YOUR IDEAS
