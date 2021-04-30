@@ -41,4 +41,8 @@ sections:
   - resources:
       title: READ MORE
       button: more
+  - infobar:
+      title: LOCAL FOOD PRODUCTION
+      subtitle: POLL ON
+      description: PENDING (go.gov.sg/localfoodproduction)
 ---
