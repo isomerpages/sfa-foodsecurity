@@ -13,4 +13,7 @@ As part of our master plan exercise, we will look into the development of shared
 
 We will also explore how we can conserve the use of resources and minimise waste by adopting circular economy principles. While agri-food production will be the key focus of the master plan exercise, we will consider how best to incorporate and support relevant elements, such as farmers’ markets and education tours.
 
+![](/images/market_ching%20wai%20lum.JPG)
+*A mock up of how the redeveloped Lim Chu Kang area could look like. (Credit: Ching Wai Lum, TP, School of Design)*
+
 When redeveloped, the Lim Chu Kang agri-food cluster can potentially produce more than three times its current food production. This will contribute substantially to the ’30 by 30’ goal and our efforts in boosting our food security.
