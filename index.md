@@ -31,7 +31,7 @@ sections:
       button: read more
       alt: Image alt text
       image: /images/netatech2.jpg
-      url: master-planning-lck
+      url: master-planning-lck/ourvision
   - infopic:
       title: How can we make it a reality?
       subtitle: towards '30 by 30'
