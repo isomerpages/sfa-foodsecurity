@@ -15,11 +15,10 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: "How do you envision "
+      description: our food future  to look like?
       alt: Image alt text
+      image: /images/hydrourban.jpeg
   - infopic:
       title: What is our '30 by 30' goal?
       subtitle: Infopic Subtitle
