@@ -9,6 +9,6 @@ The next time you're shopping for groceries, look out for the bright red SG Fres
 ![](/images/meod.jpg)
 #### Why support local?
 
-![](/images/localproduce2.png)
+![](/images/supportlocal.png)
 
 Find out how you can get your hands on fresh, locally farmed eggs, leafy greens, fish and more [here](https://www.sfa.gov.sg/fromSGtoSG/where-to-buy).
