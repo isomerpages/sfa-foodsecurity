@@ -1,8 +1,9 @@
 ---
 title: Our Singapore Food Story
 date: 2021-05-17
-permalink: /videos/permalink
+permalink: /videos/oursgfoodstory
 ---
+
 
 #### How can we increase production to achieve our '30 by 30' goal?
 
