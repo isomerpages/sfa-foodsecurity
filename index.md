@@ -49,6 +49,6 @@ sections:
       button: FIND OUT HOW
       url: get-involved/whatyoucando
   - resources:
-      title: Read more
+      title: View more
       button: more
 ---
