@@ -17,7 +17,7 @@ While agri-food production will be the key focus of the master plan exercise, we
 
 ###### ![](/images/market_ching%20wai%20lum.JPG) An illustration of how the redeveloped Lim Chu Kang area could look like. (Credit: Ching Wai Lum, Temasek Polytechnic, School of Design)
 
-When redeveloped, the Lim Chu Kang agri-food cluster can potentially produce more than three times its current food production. This will contribute substantially to our ’30 by 30’ goal and  efforts in boosting our food security.
+When redeveloped, the Lim Chu Kang agri-food cluster can potentially produce more than three times its current food production. This will contribute substantially to our '30 by 30’ goal and efforts in boosting our food security.
 
 ![](/images/LCKMP%20map-01.png)
 
