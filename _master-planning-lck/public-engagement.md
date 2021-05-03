@@ -2,11 +2,14 @@
 title: Public Engagement
 permalink: /master-planning-lck/publicengagement
 ---
+![](/images/lckmp%2003-01.png)
 
-In the spirit of the Singapore Together movement, we are working with the public and industry to co-create our vision for Lim Chu Kang.
+In the spirit of the Singapore Together movement, we invite the public and industry to work with us to co-create our vision for Lim Chu Kang.
 
-As part of this engagement process, we are organising a series of Workgroup sessions from May to October 2021 for the public and industry to come together to identify and discuss ideas to create a vibrant and attractive agri-food cluster. These include focus group discussions and curated workshops for Workgroup participants to work on their ideas and recommendations. 
+Over the next few months, we will be organising a series of engagement sessions for the public and industry to come together to identify and discuss ideas to create a vibrant and attractive agri-food cluster. 
 
-![](/images/lckmp%20roadmap%20draft%201-01.png)
+![](/images/lckmpengagement.png)
 
-Proposals by the Workgroup will be reviewed and may be included in the Lim Chu Kang master plan. Development works are expected to commence in 2024 and will be carried out in phases.
+Check in to this site and our [Facebook](www.facebook.com/sgfoodagency) page for updates on the engagement sessions.  
+
+
