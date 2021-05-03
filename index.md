@@ -22,7 +22,7 @@ sections:
       alt: Image alt text
       image: /images/apollo.jpg
       button: READ MORE
-      url: 30by30goal
+      url: 30by30
   - infopic:
       title: How will we achieve this?
       description: From tapping on technology to R&D, we are working with the industry
