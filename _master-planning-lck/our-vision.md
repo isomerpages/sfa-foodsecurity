@@ -9,7 +9,6 @@ To strengthen our food security, we are embarking on a holistic exercise to mast
 As part of our master plan exercise, we will look into the development of shared facilities to lower costs of production and resource use, as well as put in place water, electric and transport infrastructure to support high-tech farming systems. 
 
 This will provide farms with the necessary infrastructure and support to scale up and boost production.
-
 ###### ![](/images/aerial_ching%20wai%20lum.jpg)An illustration of how the redeveloped Lim Chu Kang area could look like. (Credit: Ching Wai Lum, Temasek Polytechnic, School of Design)
 
 We will also explore how we can conserve the use of resources and minimise waste by adopting circular economy principles. 
