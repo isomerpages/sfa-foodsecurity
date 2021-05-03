@@ -22,7 +22,7 @@ sections:
       alt: Image alt text
       image: /images/apollo.jpg
       button: READ MORE
-      url: our-30-by-30-goal/agri-food
+      url: 30by30goal
   - infopic:
       title: How will we achieve this?
       description: From tapping on technology to R&D, we are working with the industry
