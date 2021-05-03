@@ -4,7 +4,7 @@ permalink: /get-involved/whatyoucando
 ---
 Every action can go a long way in supporting our local farmers.
 
-The next time you're shopping for groceries, look out for the bright red SG Fresh Produce logo, which indicates that the  produce was grown by our local farmers.
+The next time you're shopping for groceries, look out for the bright red SG Fresh Produce logo, which indicates that the produce was grown by our local farmers.
 
 ![](/images/meod.jpg)
 #### Why support local?
