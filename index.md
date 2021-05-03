@@ -18,35 +18,35 @@ sections:
   - infopic:
       title: What is our '30 by 30' goal?
       description: To increase local production so that we are able to produce 30% of
-        our nutritional needs on local soil by 2030.
+        our nutritional needs locally by 2030.
       alt: Image alt text
       image: /images/apollo.jpg
-      button: Read more
+      button: READ MORE
       url: our-30-by-30-goal/agri-food
   - infopic:
-      title: Raising local food production
-      description: Beyond supporting our farms to grow more with less, we will also be
-        master planning the Lim Chu Kang area into a high-tech agri-food
-        cluster.
-      button: read more
+      title: How will we achieve this?
+      description: From tapping on technology to R&D, we are working with the industry
+        to grow and expand. We are also optimising our agriculture land to grow
+        more with less.
+      button: FIND OUT MORE
       alt: Image alt text
       image: /images/netatech2.jpg
       url: master-planning-lck/ourvision
   - infopic:
-      title: How can we make it a reality?
-      subtitle: towards '30 by 30'
+      title: Why is this important for SG?
       button: Share with us
       url: https://form.gov.sg/#!/608b731a5320380011879a8e
-      image: /images/meod.png
+      image: /images/168A9041.jpg
       alt: Image alt text
+      description: From producing our own food to supporting local, we'd like to hear
+        from you.
   - infopic:
-      title: What you can do
-      description: In the same way it takes a village to raise a child, it takes a
-        nation to feed our people.  Whatever our background or interest, all of
-        us can to play a part.
+      title: How can you contribute?
+      description: Whether you're a farmer, student or teacher - no matter your
+        background or interest, you can play a part in our '30 by 30' goal.
       alt: Image alt text
       image: /images/cwg1.jpeg
-      button: GET INVOLVED
+      button: FIND OUT HOW
       url: get-involved/whatyoucando
   - resources:
       title: Read more
