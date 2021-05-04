@@ -51,19 +51,4 @@ sections:
   - resources:
       title: View more
       button: more
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/mu_LPhLJLbc" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-      url: test
-      alt: Image alt text
 ---
