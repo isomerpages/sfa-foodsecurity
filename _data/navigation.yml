@@ -6,3 +6,10 @@ links:
     collection: master-planning-lck
   - title: Get Involved
     collection: get-involved
+  - title: Resources
+    url: /resources/speechesandmediareleases
+    sublinks:
+      - title: Speeches and Media Releases
+        url: /resources/speechesandmediareleases
+      - title: Videos
+        url: /resources/videos
