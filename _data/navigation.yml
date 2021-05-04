@@ -7,11 +7,4 @@ links:
   - title: Get Involved
     collection: get-involved
   - title: Resources
-    url: /resources/speechesandmediareleases
-    sublinks:
-      - title: Speeches and Media Releases
-        url: /exampleresources/speechesandmediareleases
-      - title: Videos
-        url: /resources/videos
-  - title: Menu Title
     resource_room: true
