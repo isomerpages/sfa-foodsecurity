@@ -24,25 +24,25 @@ sections:
       button: READ MORE
       url: 30by30
   - infopic:
+      title: Why is this important for SG?
+      button: Share with us
+      url: https://form.gov.sg/#!/608b731a5320380011879a8e
+      image: /images/168A9041.jpg
+      alt: Image alt text
+      description: From buffering against import disruptions to supporting local, we'd
+        like to hear from you.
+  - infopic:
       title: How will we achieve this?
       description: From tapping on technology to R&D, we are working with the industry
-        to grow and expand. We are also optimising our agriculture land to grow
+        to grow and expand. We are also optimising our agricultural land to grow
         more with less.
       button: FIND OUT MORE
       alt: Image alt text
       image: /images/netatech2.jpg
       url: master-planning-lck/ourvision
   - infopic:
-      title: Why is this important for SG?
-      button: Share with us
-      url: https://form.gov.sg/#!/608b731a5320380011879a8e
-      image: /images/168A9041.jpg
-      alt: Image alt text
-      description: From producing our own food to supporting local, we'd like to hear
-        from you.
-  - infopic:
       title: How can you contribute?
-      description: Whether you're a farmer, student or teacher - no matter your
+      description: Whether you're a farmer, student or consumer - no matter your
         background or interest, you can play a part in our '30 by 30' goal.
       alt: Image alt text
       image: /images/cwg1.jpeg
