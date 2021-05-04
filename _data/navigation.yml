@@ -13,3 +13,5 @@ links:
         url: /resources/speechesandmediareleases
       - title: Videos
         url: /resources/videos
+  - title: Menu Title
+    resource_room: true
