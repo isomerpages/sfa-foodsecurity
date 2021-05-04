@@ -21,4 +21,4 @@ When redeveloped, the Lim Chu Kang agri-food cluster can potentially produce mor
 
 ![](/images/lck%20map-01.png)
 
-![](/images/lckmpideas.png)
+[![](/images/lckmpideas.png)](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db)
