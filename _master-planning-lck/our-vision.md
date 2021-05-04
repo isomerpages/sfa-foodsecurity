@@ -19,6 +19,6 @@ While agri-food production will be the key focus of the master plan exercise, we
 
 When redeveloped, the Lim Chu Kang agri-food cluster can potentially produce more than three times its current food production capacity. This will contribute substantially to our '30 by 30’ goal and efforts in boosting our food security.
 
-![](/images/LCKMP%20map-01.png)
+![](/images/lck%20map-01.png)
 
-[![](/images/LCKMP%2002-01.png)](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db)
+![](/images/lckmpideas.png)
