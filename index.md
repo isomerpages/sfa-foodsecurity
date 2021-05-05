@@ -34,8 +34,8 @@ sections:
   - infopic:
       title: How will we achieve this?
       description: From tapping on technology to R&D, we are working with the industry
-        to grow and expand. We are also optimising our agricultural land to grow
-        more with less.
+        to increase production. We are also optimising our agricultural land to
+        grow more with less.
       button: FIND OUT MORE
       alt: Image alt text
       image: /images/netatech2.jpg
