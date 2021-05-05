@@ -6,7 +6,7 @@ permalink: /master-planning-lck/ourvision
 
 To strengthen our food security, we are embarking on a holistic exercise to master plan the Lim Chu Kang area into a high-tech, highly productive and resource-efficient agri-food cluster.  
 
-
+###### ![](/images/02-farming-fish-land.png) ![](/images/veg%20farm%2001.png)Examples of our farms of the future. Read more about these farms and the  people behind them [here](https://www.sfa.gov.sg/fromSGtoSG/farms).
 
 As part of our master plan exercise, we will look into the development of shared facilities to lower costs of production and resource use, as well as put in place water, electric and transport infrastructure to support high-tech farming systems. 
 
