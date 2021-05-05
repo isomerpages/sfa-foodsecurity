@@ -2,9 +2,11 @@
 title: Our vision
 permalink: /master-planning-lck/ourvision
 ---
-### A high-tech agri-food cluster
+### Growing more with less, sustainably
 
 To strengthen our food security, we are embarking on a holistic exercise to master plan the Lim Chu Kang area into a high-tech, highly productive and resource-efficient agri-food cluster.  
+
+
 
 As part of our master plan exercise, we will look into the development of shared facilities to lower costs of production and resource use, as well as put in place water, electric and transport infrastructure to support high-tech farming systems. 
 
