@@ -10,4 +10,4 @@ Over the next few months, we will be organising a series of engagement sessions 
 
 ![](/images/lckmpengagement.png)
 
-Check in to this site and our [Facebook](www.facebook.com/sgfoodagency) page for updates on the engagement sessions.
+Bookmark this page or follow  our [Facebook](www.facebook.com/sgfoodagency) page for updates on the engagement sessions.
