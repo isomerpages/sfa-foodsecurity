@@ -8,7 +8,7 @@ To strengthen our food security, we are embarking on a holistic exercise to mast
 
 ###### ![](/images/02-farming-fish-land.png) ![](/images/veg%20farm%2002.png)Examples of our farms of the future. Read more about these farms and the  people behind them [here](https://www.sfa.gov.sg/fromSGtoSG/farms).
 
-As part of our master plan exercise, we will look into the development of shared facilities to lower costs of production and resource use, as well as put in place water, electric and transport infrastructure to support high-tech farming systems. 
+As part of our master plan exercise, we will look into the development of shared facilities to achieve economies of scale and enable better use of resources, as well as put in place water, electric and transport infrastructure to support high-tech farming systems. 
 
 This will provide farms with the necessary infrastructure and support to scale up and boost production.
 ###### ![](/images/aerial_ching%20wai%20lum.jpg)An example of how the redeveloped Lim Chu Kang area could potentially look like. (Credit: Ching Wai Lum, Temasek Polytechnic, School of Design)
