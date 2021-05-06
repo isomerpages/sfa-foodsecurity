@@ -10,7 +10,7 @@ sections:
       title: SHAPING OUR FOOD FUTURE
       background: /images/coverphoto2.png
   - infobar:
-      title: OUR FOOD FUTURE TO BE?
+      title: our food future to be?
       description: <div class="home-video" ><iframe id="corp_video_player"
         title="Corporate Video" width="640" height="350"
         src="https://www.youtube.com/watch?v=CM4CkVFmTds?rel=0&amp;showinfo=0"
