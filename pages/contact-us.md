@@ -6,7 +6,7 @@ agency_name: us to share your feedback or ideas
 contacts:
   - content:
       - phone: ""
-      - email: ourfoodfuture@sfa.gov.sg
+      - email: ""
       - other: ""
-    title: General Enquiries & Feedback
+    title: go.gov.sg/lckmpideas
 ---
