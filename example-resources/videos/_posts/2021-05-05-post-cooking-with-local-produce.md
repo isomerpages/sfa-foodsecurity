@@ -3,11 +3,7 @@ title: Cooking With Local Produce
 date: 2021-05-05
 permalink: /videos/localproducerecipes
 ---
-
-
-
-
-### Add on a touch of freshness to your meals with local produce
+### Add a touch of freshness to your meals with local produce
 
 
 ##### SFA x Singapore Chefs' Association Recipes
