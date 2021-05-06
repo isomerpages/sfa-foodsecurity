@@ -1,7 +1,7 @@
-contact_us: contactus
+contact_us: /contactus
 show_reach: false
 feedback: ""
-faq: faqs
+faq: /faqs
 social_media:
   facebook: https://www.facebook.com/sgfoodagency
   twitter: https://www.twitter.com/sgfoodagency
