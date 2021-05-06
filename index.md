@@ -11,8 +11,7 @@ sections:
       background: /images/coverphoto2.png
   - infobar:
       title: Video Title here
-      description: <div class="home-video" ><iframe id="corp_video_player" title="Corporate Video" width="640" height="350" src="https://www.youtube.com/watch?v=CM4CkVFmTds?rel=0&amp;showinfo=0" allow="encrypted-media" allowfullscreen="" 
-contenteditable="false"></iframe></div>
+      description:
   - infopic:
       title: OUR FOOD FUTURE
       description: TO BE? (video on right)
