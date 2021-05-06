@@ -8,6 +8,6 @@ In the spirit of the Singapore Together movement, we invite the public and indus
 
 Over the next few months, we will be organising a series of engagement sessions for all stakeholders to come together to identify and discuss ideas to create a vibrant agri-food cluster. 
 
-![](/images/lckmpengagement.png)
+![](/images/lckmpengagement02.png)
 
 Bookmark this page or follow  our [Facebook](www.facebook.com/sgfoodagency) page for updates on the engagement sessions.
