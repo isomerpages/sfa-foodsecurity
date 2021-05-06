@@ -9,6 +9,9 @@ sections:
   - hero:
       title: SHAPING OUR FOOD FUTURE
       background: /images/coverphoto2.png
+  - infobar:
+      title: Video Title here
+      button: Button Text
   - infopic:
       title: OUR FOOD FUTURE
       description: TO BE? (video on right)
