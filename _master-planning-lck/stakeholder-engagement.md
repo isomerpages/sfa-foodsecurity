@@ -2,8 +2,7 @@
 title: Stakeholder Engagement
 permalink: /master-planning-lck/engagement
 ---
-
-![](/images/Engagementbanner-01.png)
+![](/images/Engagementbanner-02.png)
 
 In the spirit of the Singapore Together movement, we invite the public and industry to work with us to co-create our vision for Lim Chu Kang.
 
