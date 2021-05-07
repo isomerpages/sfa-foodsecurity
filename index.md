@@ -26,14 +26,6 @@ sections:
       button: READ MORE
       url: 30by30
   - infopic:
-      title: Why is this important for SG?
-      button: Share with us
-      url: https://form.gov.sg/#!/608b731a5320380011879a8e
-      image: /images/168A9041.jpg
-      alt: Image alt text
-      description: From buffering against import disruptions to supporting local, we'd
-        like to hear from you.
-  - infopic:
       title: How will we achieve this?
       description: From tapping on technology to R&D, we are working with the industry
         to increase production. We are also optimising our agricultural land to
@@ -50,6 +42,14 @@ sections:
       image: /images/cwg1.jpeg
       button: FIND OUT HOW
       url: get-involved/whatyoucando
+  - infopic:
+      title: Share your views
+      button: Share with us
+      url: https://form.gov.sg/#!/608b731a5320380011879a8e
+      image: /images/168A9041.jpg
+      alt: Image alt text
+      description: From buffering against import disruptions to supporting local, we'd
+        like to hear from you.
   - resources:
       title: View more
       button: more
