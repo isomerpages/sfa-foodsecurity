@@ -10,6 +10,9 @@ Over the next few months, we will be organising a series of engagement sessions 
 
 ![](/images/lckmpengagement02.png)
 
-The first two engagement sessions with the public and stakeholders will be held online on 17 and 31 May 2021.
+Signups for the engagement sessions have ended for now.  For those who are unable to join the engagement sessions, we welcome you to share your ideas and suggestions [here](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db). 
+#### **Engagement sessions**
+
+The first two engagement sessions will be held online on 17 and 31 May 2021.
 
 Bookmark this page or follow  our [Facebook](www.facebook.com/sgfoodagency) page for updates on the engagement sessions.
