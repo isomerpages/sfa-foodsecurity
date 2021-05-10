@@ -13,7 +13,7 @@ sections:
       title: our food future to be?
       description: <div class="home-video" ><iframe id="corp_video_player"
         title="Corporate Video" width="640" height="350"
-        src="https://www.youtube.com/watch?v=mu_LPhLJLbc&t=78s?rel=0&amp;showinfo=0"
+        src="https://youtu.be/mu_LPhLJLbc;showinfo=0"
         allow="encrypted-media" allowfullscreen=""
         contenteditable="false"></iframe></div>
       subtitle: HOW DO YOU ENVISION
