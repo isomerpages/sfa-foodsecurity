@@ -12,4 +12,4 @@ We got 3 savvy home cooks to show us how to pick the freshest vegetables, fish a
 
 Find out how you can get fresh produce straight from our local farms [here](https://mothership.sg/2021/03/fresh-produce-local-farms-sfa/).
 
-Local Produce Diet 
+Local Produce Diet
