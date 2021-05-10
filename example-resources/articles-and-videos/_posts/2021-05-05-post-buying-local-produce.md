@@ -14,4 +14,6 @@ From vegetables to mushrooms, eggs, fish and even goat's milk - find out how you
 
 ##### Diary of a Man Who Ate Nothing But Homegrown Food for 2 Weeks
 
+Think you can take your love for local produce to the next level by eating only food that's grown and produced in our little red dot?
+
 Read about this writer's experience [here](https://www.ricemedia.co/culture-life-diary-man-ate-nothing-homegrown-food-2-weeks/).
