@@ -14,7 +14,7 @@ sections:
       description: <div class="home-video" ><iframe id="corp_video_player"
         title="Corporate Video" width="640" height="350"
         src="https://www.youtube.com/embed/feG70lp9pcg;showinfo=0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
+        allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen=""
         contenteditable="false"></iframe></div>
       subtitle: HOW DO YOU ENVISION
   - infopic:
