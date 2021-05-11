@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 permalink: /faqs
 ---
 ### Lim Chu Kang Master Plan
-##### 1. I missed the signups for the Lim Chu Kang Master Plan Public Engagement sessions. Can I still participate?
+##### 1. I missed the signups for the Lim Chu Kang Master Plan StakeHolder and Public Engagement sessions. Can I still participate?
 
 Our signups have ended for now. For those who are unable to join the engagement sessions, we welcome you to share your ideas and suggestions [here](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db). You can also bookmark this site or follow our Facebook page for updates on the engagement sessions.
 
