@@ -12,9 +12,9 @@ sections:
   - infobar:
       title: How do you envision our food future to be?
       description: <div class="home-video" ><iframe id="corp_video_player"
-        title="Corporate Video" width="100%" height="315"
+        title="Corporate Video" width="100%" height="350"
         src="https://www.youtube.com/embed/feG70lp9pcg;showinfo=0"
-        allow="autoplay=1; encrypted-media; picture-in-picture" allowfullscreen=""
+        allow="encrypted-media; picture-in-picture" allowfullscreen=""
         contenteditable="false"></iframe></div>
   - infopic:
       title: What is our '30 by 30' goal?
