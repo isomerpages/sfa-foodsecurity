@@ -10,13 +10,13 @@ sections:
       title: SHAPING OUR FOOD FUTURE
       background: /images/coverphoto2.png
   - infobar:
-      title: our food future to be?
+      title: How do you envision our food future to be?
       description: <div class="home-video" ><iframe id="corp_video_player"
         title="Corporate Video" width="640" height="350"
         src="https://www.youtube.com/embed/feG70lp9pcg;showinfo=0"
         allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen=""
         contenteditable="false"></iframe></div>
-      subtitle: HOW DO YOU ENVISION
+      subtitle: 
   - infopic:
       title: What is our '30 by 30' goal?
       description: To increase local production so that we are able to produce 30% of
