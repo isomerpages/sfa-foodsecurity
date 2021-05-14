@@ -15,4 +15,4 @@ Signups for the engagement sessions have ended for now.  For those who are unabl
 
 The first two engagement sessions will be held online on 17 and 31 May 2021.
 
-Bookmark this page or follow  our [Facebook](www.facebook.com/sgfoodagency) page for updates on the engagement sessions.
+Bookmark this page or follow  our [Facebook page](www.facebook.com/sgfoodagency) for updates on the engagement sessions.
