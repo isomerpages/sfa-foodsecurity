@@ -10,7 +10,7 @@ In this episode of The Smart Local's Hired or Fired series, Xenia takes on the r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9AchlGbndec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Read more about this millennial's experience at another  fish farm [here](https://www.ricemedia.co/culture-people-millennial-singaporean-fish-farmer-for-a-week/).
+Read more about another millennial's experience at a separate  fish farm [here](https://www.ricemedia.co/culture-people-millennial-singaporean-fish-farmer-for-a-week/).
 
 ##### Stepping Into The Shoes of an Urban  Farmer
 
