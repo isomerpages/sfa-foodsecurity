@@ -1,0 +1,6 @@
+collections:
+  get-involved:
+    output: true
+    order:
+      - what-you-can-do.md
+      - share-your-ideas.md

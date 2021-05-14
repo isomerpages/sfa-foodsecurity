@@ -1,17 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SFA logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Example Resources
+  - title: 30 by 30
+    url: /30by30
+  - title: Master Planning Lim Chu Kang
+    collection: master-planning-lck
+  - title: Get Involved
+    collection: get-involved
+  - title: Resources
     resource_room: true
