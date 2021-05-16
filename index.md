@@ -51,6 +51,6 @@ sections:
       description: From buffering against import disruptions to supporting local, we'd
         like to hear from you.
   - resources:
-      title: Read more
+      title: View more
       button: more
 ---
