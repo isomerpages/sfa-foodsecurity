@@ -1,5 +1,5 @@
 ---
-title: Our vision
+title: Our Vision
 permalink: /master-planning-lck/ourvision
 ---
 ### Growing more with less, sustainably
