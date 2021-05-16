@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 permalink: /faqs
 ---
 ### Lim Chu Kang Master Plan
-##### 1. I missed the signups for the Lim Chu Kang Master Plan StakeHolder and Public Engagement sessions. Can I still participate?
+##### 1. I missed the signups for the Lim Chu Kang Master Plan StakeHolder Engagement sessions. Can I still participate?
 
 Our signups have ended for now. For those who are unable to join the engagement sessions, we welcome you to share your ideas and suggestions [here](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db). You can also bookmark this site or follow our Facebook page for updates on the engagement sessions.
 
@@ -16,7 +16,7 @@ The redevelopment of the Lim Chu Kang area will enable us to uplift the local ag
 
 Currently, an average vegetable farm in Singapore occupies around 2 hectares of land and produces about 130 tonnes/ha/year. In contrast, a high-tech, high productivity vegetable farm has the potential to produce over 1,000 tonnes/ha/year with less than one hectare of land. 
 
-When redeveloped, the Lim Chu Kang agri-food cluster can potentially produce more than three times its current food production capacity. This will contribute substantially to our ‘30 by 30’ goal and efforts in boosting our food security.
+When redeveloped, the Lim Chu Kang agri-food zone can potentially produce more than three times its current food production capacity. This will contribute substantially to our ‘30 by 30’ goal and efforts in boosting our food security.
 
 ##### 4. When will development works for the Lim Chu Kang area commence?
 
