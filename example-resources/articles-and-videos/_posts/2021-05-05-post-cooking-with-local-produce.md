@@ -23,7 +23,7 @@ Taste the freshness of home in this simple recipe by Chef KK Kong using locally 
 #### SFA x The Meatmen Recipes
 
 ##### Mee Siam
-Learn how to cook mee siam, the well-loved local hawker dish, using fresh/ locally farmed towgay, prawns and eggs!
+Learn how to cook mee siam, the well-loved local hawker dish, using fresh locally farmed towgay, prawns and eggs!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i-XSepuYEDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
