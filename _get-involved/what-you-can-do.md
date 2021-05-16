@@ -1,5 +1,5 @@
 ---
-title: What you can do
+title: What You Can Do
 permalink: /get-involved/whatyoucando
 ---
 Every action can go a long way in supporting our local farmers.
