@@ -33,6 +33,6 @@ This dish is a favourite among steamboat lovers, thanks to the rich broth made f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eASJUGZnhpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Pandan Swiss Roll with Buttercream
-Ask any baker which ingredient is the most important for the best-tasting pastries and cakes – and the answer is likely eggs! And it can’t get any fresher than locally farmed eggs, which travels a shorter distance to reach you.
+Ask any baker which ingredient is the most important for the best-tasting pastries and cakes, and the answer is likely eggs! And it can’t get any fresher than locally farmed eggs, which travel a shorter distance to reach you.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vrZv6M5Hl4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
