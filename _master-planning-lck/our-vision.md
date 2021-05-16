@@ -15,7 +15,7 @@ We will also explore how we can introduce circular economy principles such that 
 While agri-food production will be the key focus of the master plan exercise, we will consider how best to incorporate and support elements to engage the public, such as farmers’ markets and educational tours of the farms.
 ###### ![](/images/lckmpillustration.jpg)An example of how the redeveloped Lim Chu Kang area could potentially look like. (Credit: Ching Wai Lum, Temasek Polytechnic, School of Design)
 
-When redeveloped, the Lim Chu Kang agri-food cluster can potentially produce more than three times its current food production capacity. This will contribute substantially to our '30 by 30’ goal and efforts in boosting our food security.
+When redeveloped, the Lim Chu Kang agri-food zone can potentially produce more than three times its current food production capacity. This will contribute substantially to our '30 by 30’ goal and efforts in boosting our food security.
 
 ![](/images/lckmp01.png)
 
