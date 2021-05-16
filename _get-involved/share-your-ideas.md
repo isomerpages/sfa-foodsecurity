@@ -1,5 +1,5 @@
 ---
-title: Share your ideas
+title: Share Your Ideas
 permalink: /get-involved/shareyourideas
 ---
 #### Together, we can build a resilient and sustainable food future

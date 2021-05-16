@@ -13,7 +13,7 @@ sections:
       title: How do you envision our food future to be?
       description: <div class="home-video" ><iframe id="corp_video_player"
         title="Corporate Video" width="100%" height="315"
-        src="https://www.youtube.com/embed/feG70lp9pcg;showinfo=0"
+        src="https://www.youtube.com/embed/Nv0xImXtkZI;showinfo=0"
         allow="encrypted-media; picture-in-picture" allowfullscreen=""
         contenteditable="false"></iframe></div>
   - infopic:
@@ -27,7 +27,8 @@ sections:
   - infopic:
       title: How will we achieve this?
       description: From tapping on technology to R&D, we are working with the industry
-        to increase production. We are also optimising our agricultural land to
+        to increase production. We are also optimising our agricultural land 
+        such as the Lim Chu Kang area to
         grow more with less.
       button: FIND OUT MORE
       alt: Image alt text
@@ -37,10 +38,11 @@ sections:
       title: How can you contribute?
       description: Whether you're a farmer, student or consumer - no matter your
         background or interest, you can play a part in our '30 by 30' goal.
+        Share your ideas for our food future and the Lim Chu Kang master plan.
       alt: Image alt text
       image: /images/cwg1.jpeg
-      button: FIND OUT HOW
-      url: get-involved/whatyoucando
+      button: SHARE YOUR IDEAS
+      url: https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db
   - infopic:
       title: Share your views
       button: Share with us
