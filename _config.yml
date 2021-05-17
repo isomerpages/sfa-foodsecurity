@@ -54,3 +54,4 @@ plugins:
 staging: https://sfa-foodsecurity-staging.netlify.app
 prod: https://sfa-foodsecurity-prod.netlify.app
 is_government: true
+shareicon: /images/foodfuture.png
