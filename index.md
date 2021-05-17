@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Our Food Future Let's shape the future of our food story together
+title: Our Food Future
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
