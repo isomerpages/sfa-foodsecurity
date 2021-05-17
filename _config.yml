@@ -1,4 +1,4 @@
-title: Our Food Future Let's shape the future of our food story together
+title: Our Food Future
 url: ""
 favicon: /images/foodfuture.png
 colors:
@@ -54,3 +54,4 @@ plugins:
 staging: https://sfa-foodsecurity-staging.netlify.app
 prod: https://sfa-foodsecurity-prod.netlify.app
 is_government: true
+shareicon: /images/foodfuture.png
