@@ -1,6 +1,6 @@
-title: Our Food Future
+title: Our Food Future Let's shape the future of our food story together
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/foodfuture.png
 colors:
   primary-color: "#f57e23"
   secondary-color: "#f5a623"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-resources_name: "example-resources"
+resources_name: example-resources
 google_analytics: G-0WWF7EJRP6
 description: An Isomer site of the Singapore Government
 permalink: none
