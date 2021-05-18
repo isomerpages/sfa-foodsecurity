@@ -3,7 +3,6 @@ title: SFA Launches Stakeholder Engagement For The Lim Chu Kang Master Plan
 date: 2021-05-17
 permalink: /speeches-and-media-releases/17maylckmp
 ---
-
 ##### SFA launches Stakeholder Engagement for the Lim Chu Kang Master Plan
 
 The Singapore Food Agency (SFA) [announced](https://www.sfa.gov.sg/docs/default-source/default-document-library/master-plan-exercise-to-transform-lim-chu-kang-into-a-high-tech-agri-food-cluster.pdf) last year that it will embark on a holistic exercise to master plan the Lim Chu Kang (LCK) area, to create a high-tech agri-food zone that can raise food production in a sustainable and resource-efficient manner. This also supports the recently announced Singapore Green Plan’s resilient future pillar.
@@ -25,7 +24,7 @@ together.”
 
 6 Participants will subsequently be selected to form workgroups to delve deeper into ideas and interest areas for the LCK master plan, and to participate in focus group discussions and curated workshops. Details of the subsequent sessions* will be shared with participants at a later date.
 
-7 A summary of the key points of discussion from the sessions will be made available online at www.ourfoodfuture.gov.sg. Members of the public who are unable to participate in the engagement sessions may also share their ideas and views for LCK on the website. Suggestions contributed by participants during the engagement sessions will be considered
+7 A summary of the key points of discussion from the sessions will be made available online at [www.ourfoodfuture.gov.sg](www.ourfoodfuture.gov.sg) Members of the public who are unable to participate in the engagement sessions may also share their ideas and views for LCK on the website. Suggestions contributed by participants during the engagement sessions will be considered
 by agencies towards shaping the LCK master plan.
 
 ###### *These sessions will be conducted physically and/or virtually, subject to COVID-19 guidelines.
