@@ -32,5 +32,5 @@ redeveloped in line with the master plan. 1 food farm and 2 non-food farm whose 
 
 9 “We aim to create a vibrant and attractive agri-food cluster where global bestin-class agri-food companies, the next generation of agri-tech workers, and visitors will be excited to work in and visit. To do so, SFA will work with farmers and other stakeholders to co-create an exciting vision for Lim Chu Kang,” said Mr Lim Kok Thai, SFA’s Chief Executive Officer. 
 
-###### Annex
+Annex
 ![Alt text for image on Isomer site](/images/lck%20map-01.png)
