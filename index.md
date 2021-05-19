@@ -1,11 +1,8 @@
 ---
 layout: homepage
 title: Our Food Future
-description: <div class="home-video" ><iframe id="corp_video_player"
-        title="Corporate Video" width="100%" height="315"
-        src="https://www.youtube.com/embed/Nv0xImXtkZI;showinfo=0"
-        allow="encrypted-media; picture-in-picture" allowfullscreen=""
-        contenteditable="false"></iframe></div>
+description: Let's shape the future of our food story together
+image: /images/foodfuture.png
 permalink: /
 notification: ""
 sections:
