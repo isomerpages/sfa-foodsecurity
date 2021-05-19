@@ -1,20 +1,20 @@
 title: Our Food Future
 url: ""
-favicon: /images/foodfuture.png
+favicon: /images/SFA%20logo-01.png
 colors:
   primary-color: "#f57e23"
   secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#6d7072"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#4a4a4a"
     - title: media-color-three
-      color: "#00838f"
+      color: "#757677"
     - title: media-color-four
-      color: "#00838f"
+      color: "#4a4a4a"
     - title: media-color-five
-      color: "#00838f"
+      color: "#4a4a4a"
 resources_name: example-resources
 google_analytics: G-0WWF7EJRP6
 description: An Isomer site of the Singapore Government

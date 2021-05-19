@@ -2,7 +2,7 @@
 layout: homepage
 title: Our Food Future
 description: Let's shape the future of our food story together
-image: /images/isomer-logo.svg
+image: /images/foodfuture.png
 permalink: /
 notification: ""
 sections:
