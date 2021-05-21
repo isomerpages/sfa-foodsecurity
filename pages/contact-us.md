@@ -6,7 +6,7 @@ agency_name: SFA
 contacts:
   - content:
       - phone: ""
-      - email: ""
-      - other: go.gov.sg/lckmpideas
-    title: Share your feedback at
+      - email: our_food_future@sfa.gov.sg
+      - other: ""
+    title: For enquiries or feedback
 ---
