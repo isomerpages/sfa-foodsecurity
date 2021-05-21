@@ -8,5 +8,5 @@ contacts:
       - phone: ""
       - email: our_food_future@sfa.gov.sg
       - other: go.gov.sg/lckmpideas
-    title: To share your ideas
+    title: Share your ideas
 ---
