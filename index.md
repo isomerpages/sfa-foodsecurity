@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: SHAPING OUR FOOD FUTURE
-      background: /images/coverphoto2.png
+      background: /images/ourfoodfuture1.png
   - infobar:
       title: How do you envision our food future to be?
       description: <div class="home-video" ><iframe id="corp_video_player"
