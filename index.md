@@ -31,7 +31,7 @@ sections:
         such as the Lim Chu Kang area to grow more with less.
       button: FIND OUT MORE
       alt: Image alt text
-      image: /images/ourfoodfuture3.png
+      image: /images/ourfoodfuture-3.png
       url: master-planning-lck/ourvision
   - infopic:
       title: How can you contribute?
@@ -39,7 +39,7 @@ sections:
         background or interest, you can play a part in our '30 by 30' goal.
         Share your ideas for our food future and the Lim Chu Kang master plan.
       alt: Image alt text
-      image: /images/ourfoodfuture4.png
+      image: /images/ourfoodfuture-4.jpeg
       button: SHARE YOUR IDEAS
       url: https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db
   - infopic:
