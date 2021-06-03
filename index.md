@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: SHAPING OUR FOOD FUTURE
-      background: /images/coverphoto2.png
+      background: /images/ourfoodfuture1.png
   - infobar:
       title: How do you envision our food future to be?
       description: <div class="home-video" ><iframe id="corp_video_player"
@@ -21,7 +21,7 @@ sections:
       description: To increase local production so that we are able to produce 30% of
         our nutritional needs locally by 2030.
       alt: Image alt text
-      image: /images/apollo.jpg
+      image: /images/ourfoodfuture2.png
       button: READ MORE
       url: 30by30
   - infopic:
@@ -31,7 +31,7 @@ sections:
         such as the Lim Chu Kang area to grow more with less.
       button: FIND OUT MORE
       alt: Image alt text
-      image: /images/netatech2.jpg
+      image: /images/ourfoodfuture-3.png
       url: master-planning-lck/ourvision
   - infopic:
       title: How can you contribute?
@@ -39,14 +39,14 @@ sections:
         background or interest, you can play a part in our '30 by 30' goal.
         Share your ideas for our food future and the Lim Chu Kang master plan.
       alt: Image alt text
-      image: /images/cwg1.jpeg
+      image: /images/ourfoodfuture-4.jpeg
       button: SHARE YOUR IDEAS
       url: https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db
   - infopic:
       title: Share your views
       button: Share with us
       url: https://form.gov.sg/#!/608b731a5320380011879a8e
-      image: /images/168A9041.jpg
+      image: /images/ourfoodfuture5.png
       alt: Image alt text
       description: From buffering against import disruptions to supporting local, we'd
         like to hear from you.

@@ -13,6 +13,6 @@ Over the next few months, we will be organising a series of engagement sessions 
 Signups for the engagement sessions have ended for now.  For those who are unable to join the engagement sessions, we welcome you to share your ideas and suggestions [here](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db). 
 #### **Engagement sessions**
 
-The first two engagement sessions will be held online on 17 and 31 May 2021.
+A summary of the first two engagement sessions held online on 17 and 31 May 2021 will be shared soon.
 
 Bookmark this page or follow  our [Facebook page](https://www.facebook.com/SGFoodAgency/) for updates on the engagement sessions.

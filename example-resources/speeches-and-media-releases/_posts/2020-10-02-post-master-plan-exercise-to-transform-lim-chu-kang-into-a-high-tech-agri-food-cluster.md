@@ -7,8 +7,7 @@ permalink: /speeches-and-media-releases/lckmasterplan
 ##### Master Plan Exercise to Transform Lim Chu Kang into a High-Tech Agri-Food Cluster
 *Master planning public infrastructure and building shared facilities to uplift the agrifood sector, boost food production and create good green jobs for Singaporeans*
 
-The Singapore Food Agency (SFA) will be embarking on a holistic exercise to master plan the Lim Chu Kang (LCK) area to create a high-tech, highly productive and resource-efficient agri-food cluster. The master plan, spanning about 390ha of
-land, will be undertaken in consultation with stakeholders and completed over the next two to three years. Development works are expected to commence in 2024 and will be carried out in phases.
+The Singapore Food Agency (SFA) will be embarking on a holistic exercise to master plan the Lim Chu Kang (LCK) area to create a high-tech, highly productive and resource-efficient agri-food cluster. The master plan, spanning about 390ha of land, will be undertaken in consultation with stakeholders and completed over the next two to three years. Development works are expected to commence in 2024 and will be carried out in phases.
 ##### Ensuring Food Security
 2 Food security is existential for Singapore. We currently import more than 90% of our food supply, which makes us vulnerable to disruptions in global supply chains. The ongoing COVID-19 global pandemic has underscored the importance of ensuring that we have diversified sources and resilient food supply chains.
 
