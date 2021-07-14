@@ -14,8 +14,7 @@ From May to October 2021, stakeholders will come together in a series of engagem
 
 Over four sessions from May to June, over 300 stakeholders from different professions, industry and backgrounds such as farmers, educators, nature groups, solution providers, ecosystem players, members of the public and public officers gathered online to exchange views and ideas on Singapore’s food security and the Lim Chu Kang master plan. The sessions were helmed by Ms Grace Fu, Minister for Sustainability and the Environment, and Mr Desmond Tan, Minister of State for Sustainability and the Environment.
  
- ![Alt text for image on Isomer site](/images/phase%201.png)
-###### Around 300 participants came together over four online sessions to discuss Singapore’s food future and the Lim Chu Kang master plan.  
+######  ![Alt text for image on Isomer site](/images/phase%201.png)Around 300 participants came together over four online sessions to discuss Singapore’s food future and the Lim Chu Kang master plan.  
  
  Participants were asked to identify the opportunities and challenges in securing Singapore’s food future and how Lim Chu Kang could contribute towards Singapore’s food security.  
  
@@ -75,4 +74,4 @@ Participants will be invited to further discuss key themes drawn from the earlie
 
 The call for participation for our Phase 2 engagement sessions have closed. If you would like to share your ideas and suggestions with us, please visit [go.gov.sg/lckmpideas](go.gov.sg/lckmpideas).
 
-Bookmark this page or follow our [Facebook page](www.facebook.com/sgfoodagency) for updates on our upcoming engagement sessions. 
+Bookmark this page or follow our [Facebook page](www.facebook.com/sgfoodagency) for updates on our upcoming engagement sessions.
