@@ -43,6 +43,8 @@ Over four sessions from May to June, over 300 stakeholders from different profes
 * On the farming industry, participants highlighted the need for a change in the perception of the industry in order to attract and encourage youths to take up a career in agriculture. 
 * Participants also discussed ways to excite the younger generation to join the industry and how we the transformation of our farming industry could brand and place Singapore’s agri-food sector on the world map.
 
+Read the full report [Example Filename](/files/Summary%20of%20LCKMP%20Phase%201%20Discussions%20.pdf).
+
 #### Phase 2: Consensus Building 
 
 Following the conclusion of Phase 1 discussions, SFA will be inviting participants to continue to share their ideas as part of our Phase 2 engagement series due to commence in July 2021. 
@@ -53,4 +55,4 @@ Participants will be invited to further discuss key themes drawn from the earlie
 
 The call for participation for our Phase 2 engagement sessions have closed. If you would like to share your ideas and suggestions with us, please visit [go.gov.sg/lckmpideas](go.gov.sg/lckmpideas).
 
-Bookmark this page or follow our [Facebook page](www.facebook.com/sgfoodagency) for updates on our upcoming engagement sessions.
+Bookmark this page or follow our [Facebook page](https://www.facebook.com/SGFoodAgency/) for updates on our upcoming engagement sessions.
