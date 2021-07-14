@@ -43,7 +43,7 @@ Over four sessions from May to June, over 300 stakeholders from different profes
 * On the farming industry, participants highlighted the need for a change in the perception of the industry in order to attract and encourage youths to take up a career in agriculture. 
 * Participants also discussed ways to excite the younger generation to join the industry and how we the transformation of our farming industry could brand and place Singapore’s agri-food sector on the world map.
 
-Read the full report [Example Filename](/files/Summary%20of%20LCKMP%20Phase%201%20Discussions%20.pdf).
+Read the full report [here](/files/Summary%20of%20LCKMP%20Phase%201%20Discussions%20.pdf).
 
 #### Phase 2: Consensus Building 
 
