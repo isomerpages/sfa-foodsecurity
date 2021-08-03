@@ -17,7 +17,7 @@ sections:
         allow="encrypted-media; picture-in-picture" allowfullscreen=""
         contenteditable="false"></iframe></div>
   - infopic:
-      title: What is our '30 by 30' goal?
+      title: What is our '30 by 30' target?
       description: To build up  our capability and capacity to produce 30% of our
         nutritional needs locally and sustainably by 2030.
       alt: Image alt text
