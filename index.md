@@ -17,9 +17,9 @@ sections:
         allow="encrypted-media; picture-in-picture" allowfullscreen=""
         contenteditable="false"></iframe></div>
   - infopic:
-      title: What is our '30 by 30' goal?
-      description: To increase local production so that we are able to produce 30% of
-        our nutritional needs locally by 2030.
+      title: What is our '30 by 30' target?
+      description: To build up  our capability and capacity to produce 30% of our
+        nutritional needs locally and sustainably by 2030.
       alt: Image alt text
       image: /images/ourfoodfuture2.png
       button: READ MORE
@@ -36,8 +36,8 @@ sections:
   - infopic:
       title: How can you contribute?
       description: Whether you're a farmer, student or consumer - no matter your
-        background or interest, you can play a part in our '30 by 30' goal.
-        Share your ideas for our food future and the Lim Chu Kang master plan.
+        background or interest, you can play a part. Share your ideas for our
+        food future and the Lim Chu Kang master plan.
       alt: Image alt text
       image: /images/ourfoodfuture-4.jpeg
       button: SHARE YOUR IDEAS
