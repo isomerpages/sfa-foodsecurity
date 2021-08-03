@@ -36,7 +36,7 @@ sections:
   - infopic:
       title: How can you contribute?
       description: Whether you're a farmer, student or consumer - no matter your
-        background or interest, you can play a part in our '30 by 30' goal.
+        background or interest, you can play a part.
         Share your ideas for our food future and the Lim Chu Kang master plan.
       alt: Image alt text
       image: /images/ourfoodfuture-4.jpeg
