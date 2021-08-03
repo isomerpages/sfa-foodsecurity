@@ -18,8 +18,8 @@ sections:
         contenteditable="false"></iframe></div>
   - infopic:
       title: What is our '30 by 30' goal?
-      description: To increase local production so that we are able to produce 30% of
-        our nutritional needs locally by 2030.
+      description: To build up  our capability and capacity to produce 30% of our
+        nutritional needs locally and sustainably by 2030.
       alt: Image alt text
       image: /images/ourfoodfuture2.png
       button: READ MORE
