@@ -62,6 +62,15 @@ Participants deliberated over how Lim Chu Kang could be redeveloped into Singapo
 ![Alt text for image on Isomer site](/images/Phase%202-5.png)
 ![Alt text for image on Isomer site](/images/Phase2-6.png)
 
+Read the full report [here](/files/LCKMP%20Phase%202%20Summary.pdf).
+
+#### Phase 3: Co-creation
+
+In Phase 3, selected participants will be invited to work in dedicated groups to deepen their ideas and develop solutions. They will go through four rigorous sessions of problem framing, envisioning, testing and prototyping on the 4 ‘Es’:
+* Environment
+* Experience
+* Engagement
+* Economics
 
 The call for participation for our Phase 2 engagement sessions have closed. If you would like to share your ideas and suggestions with us, please visit [go.gov.sg/lckmpideas](go.gov.sg/lckmpideas).
 
