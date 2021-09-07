@@ -57,6 +57,7 @@ Participants deliberated over how Lim Chu Kang could be redeveloped into Singapo
 
 ![Alt text for image on Isomer site](/images/Phase%202-1.jpg)
 
+
 The call for participation for our Phase 2 engagement sessions have closed. If you would like to share your ideas and suggestions with us, please visit [go.gov.sg/lckmpideas](go.gov.sg/lckmpideas).
 
 Bookmark this page or follow our [Facebook page](https://www.facebook.com/SGFoodAgency/) for updates on our upcoming engagement sessions.
