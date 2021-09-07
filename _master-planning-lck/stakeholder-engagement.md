@@ -72,6 +72,14 @@ In Phase 3, selected participants will be invited to work in dedicated groups to
 * Engagement
 * Economics
 
-The call for participation for our Phase 2 engagement sessions have closed. If you would like to share your ideas and suggestions with us, please visit [go.gov.sg/lckmpideas](go.gov.sg/lckmpideas).
+![Alt text for image on Isomer site](/images/Phase%203%20themes.png)
 
-Bookmark this page or follow our [Facebook page](https://www.facebook.com/SGFoodAgency/) for updates on our upcoming engagement sessions.
+Collectively, these four ‘Es’ make up a fifth ‘E’ – The Lim Chu Kang Ecosystem. 
+
+Participants will present their recommendations to Minister Grace Fu and Minister of State Desmond Tan at the final session in October 2021. Feasible ideas will be incorporated into the master planning consultancy study that will be launched later this year. 
+
+#### What would you want to see in the future Lim Chu Kang?
+
+While the call for participation for our Lim Chu Kang Master Plan stakeholder engagement sessions has closed, you can share your ideas and suggestions with us at [go.gov.sg/lckmpideas](go.gov.sg/lckmpideas).
+
+You can also visit SFA's [Facebook page](https://www.facebook.com/SGFoodAgency/) to share your views on the ideas that our Phase 2 participants have come up with! 
