@@ -4,7 +4,7 @@ permalink: /master-planning-lck/engagement
 ---
 ![Alt text for image on Isomer site](/images/Stakeholder%20Engagement.png)
 
-In the spirit of the Singapore Together movement, SFA invited industry representatives and members of the public to join SFA in co-creating our vision for Lim Chu Kang.
+In the spirit of the Singapore Together movement, SFA invited industry representatives and members of the public to join SFA in co-creating our vision for Lim Chu Kang. This initiative is part of our ongoing efforts to invite stakeholders to share their views and ideas on how we can raise food production in a sustainable and resource-efficient manner in support of the Singapore Green Plan 2030.
 
 From May to October 2021, stakeholders will come together in a series of engagement sessions to identify and discuss ideas to redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all.
 
@@ -47,11 +47,15 @@ Read the full report [here](/files/Summary%20of%20LCKMP%20Phase%201%20Discussion
 
 #### Phase 2: Consensus Building 
 
-Following the conclusion of Phase 1 discussions, SFA will be inviting participants to continue to share their ideas as part of our Phase 2 engagement series due to commence in July 2021. 
+Following the conclusion of Phase 1 discussions, SFA invited participants to continue the Lim Chu Kang Master Planning journey with us and further contribute their ideas in Phase 2 of the Stakeholder Engagement series.
 
-Participants will be invited to further discuss key themes drawn from the earlier conversations and address how Lim Chu Kang could be redeveloped into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all.
+The three sessions which spanned over the month of July 2021 were designed to allow participants to deepen the discussion of key themes drawn from the earlier conversations in Phase 1. Mr Desmond Tan, Minister of State for Sustainability and the Environment, joined the discussions, which involved about 150 stakeholders from different professions, industries and backgrounds. 
 
-![Alt text for image on Isomer site](/images/phase%202%20themes-01.png)
+![Alt text for image on Isomer site](/images/LCKMP%20Phase%202.jpg)
+
+Participants deliberated over how Lim Chu Kang could be redeveloped into Singapore's flagship agri-food production hub of the future that is vibrant, innovative, sustainable and accessible to all, and five common themes from Phase 1.
+
+![Alt text for image on Isomer site](/images/Phase%202-1.jpg)
 
 The call for participation for our Phase 2 engagement sessions have closed. If you would like to share your ideas and suggestions with us, please visit [go.gov.sg/lckmpideas](go.gov.sg/lckmpideas).
 
