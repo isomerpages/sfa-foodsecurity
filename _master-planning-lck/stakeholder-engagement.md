@@ -74,12 +74,12 @@ In Phase 3, selected participants will be invited to work in dedicated groups to
 
 ![Alt text for image on Isomer site](/images/Phase%203%20themes.png)
 
-Collectively, these four ‘Es’ make up a fifth ‘E’ – The Lim Chu Kang Ecosystem. 
+Collectively, these four ‘Es’ make up a fifth ‘E’ – the Lim Chu Kang Ecosystem. 
 
 Participants will present their recommendations to Minister Grace Fu and Minister of State Desmond Tan at the final session in October 2021. Feasible ideas will be incorporated into the master planning consultancy study that will be launched later this year. 
 
 #### What would you want to see in the future Lim Chu Kang?
 
-While the call for participation for our Lim Chu Kang Master Plan stakeholder engagement sessions has closed, you can share your ideas and suggestions with us at [go.gov.sg/lckmpideas](go.gov.sg/lckmpideas).
+While the call for participation for our Lim Chu Kang Master Plan stakeholder engagement sessions has closed, you can share your ideas and suggestions with us at [go.gov.sg/lckmpideas](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db).
 
 You can also visit SFA's [Facebook page](https://www.facebook.com/SGFoodAgency/) to share your views on the ideas that our Phase 2 participants have come up with! 
