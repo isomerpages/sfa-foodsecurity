@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#4a4a4a"
 resources_name: example-resources
-google_analytics: G-0WWF7EJRP6
+google_analytics: ""
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
