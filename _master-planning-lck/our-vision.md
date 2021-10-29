@@ -19,4 +19,3 @@ When redeveloped, the Lim Chu Kang agri-food zone can potentially produce more t
 
 ![](/images/lckmp01.png)
 
-[![](/images/lckmpideas.png)](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db)
