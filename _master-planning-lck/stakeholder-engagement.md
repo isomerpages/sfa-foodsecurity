@@ -6,9 +6,9 @@ permalink: /master-planning-lck/engagement
 
 In the spirit of the Singapore Together movement, SFA invited industry representatives and members of the public to join SFA in co-creating our vision for Lim Chu Kang. This initiative is part of our ongoing efforts to invite stakeholders to share their views and ideas on how we can raise food production in a sustainable and resource-efficient manner in support of the Singapore Green Plan 2030.
 
-From May to October 2021, stakeholders will come together in a series of engagement sessions to identify and discuss ideas to redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all.
+From May to October 2021, stakeholders came together in a series of engagement sessions to identify and discuss ideas to redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all.
 
-![Alt text for image on Isomer site](/images/Stakeholderengagement.png)
+![Alt text for image on Isomer site](/images/lckmp%20engagement_updated%2028%20oct-01.png)
 
 #### **Phase 1: Stakeholder Consultation**
 
@@ -66,7 +66,7 @@ Read the full report [here](/files/LCKMP%20Phase%202%20Summary.pdf).
 
 #### Phase 3: Co-creation
 
-In Phase 3, selected participants will be invited to work in dedicated groups to deepen their ideas and develop solutions. They will go through four rigorous sessions of problem framing, envisioning, testing and prototyping on the 4 ‘Es’:
+In Phase 3, selected participants were invited to work in dedicated groups to deepen their ideas and develop solutions. They went through four rigorous sessions of problem framing, envisioning, testing and prototyping on the 4 ‘Es’:
 * Environment
 * Experience
 * Engagement
@@ -76,10 +76,12 @@ In Phase 3, selected participants will be invited to work in dedicated groups to
 
 Collectively, these four ‘Es’ make up a fifth ‘E’ – the Lim Chu Kang Ecosystem. 
 
-Participants will present their recommendations to Minister Grace Fu and Minister of State Desmond Tan at the final session in October 2021. Feasible ideas will be incorporated into the master planning consultancy study that will be launched later this year. 
+Participants presented their recommendations to Minister Grace Fu and Minister of State Desmond Tan at the final session in October 2021. Feasible ideas will be incorporated into the master planning consultancy study that will be launched later this year. 
 
 #### What would you want to see in the future Lim Chu Kang?
 
-While the call for participation for our Lim Chu Kang Master Plan stakeholder engagement sessions has closed, you can share your ideas and suggestions with us at [go.gov.sg/lckmpideas](https://form.gov.sg/#!/60829e0cc3ed7d0011ad49db).
+While the call for participation for our Lim Chu Kang Master Plan stakeholder engagement sessions have closed, you can share your ideas and suggestions with us via SFA's [feedback form](https://sfa.gov.sg/feedback.).
 
-You can also visit SFA's [Facebook page](https://www.facebook.com/SGFoodAgency/) to share your views on the ideas that our Phase 2 participants have come up with! 
+You can also visit SFA's [Facebook page](https://www.facebook.com/SGFoodAgency/) to share your views on the ideas that our Phase 3 participants have come up with!
+
+Lastly, stay tuned to this site for updates on the Lim Chu Kang Master Plan!
