@@ -33,10 +33,10 @@ layout: post
 
 9. I am grateful for the diversity in views expressed by all of you, as it generated greater awareness and understanding of issues of concern to various groups and offered fresh perspectives. What is important is how our continued conversations have led to a convergence of views and allowed us to come up with holistic proposals and ideas that aimed to address the trade-offs and issues and achieve a win-win outcome for all. 
 
-**Closing **
+**Closing**
 
 10. I am encouraged to hear that some of you have arranged additional discussions on your own accord to refine your proposals. Thank you very much for your passion, dedication and hard work, which underscores the value and importance you place on our food security and the future of Lim Chu Kang. 
 
 11. This series of engagements has been an act of co-creation – to imagine the future of LCK together, and how it can support the ’30 by 30’ strategy. A lot of work has been invested by you to imagining this future from multiple different perspectives. This diversity gives us a rich picture of future options, which can be explored for the master plan of the site in the coming years. Through the actions of industry, Government, community and academia, we can journey together to realise these benefits in the future. Today’s session is only about the start of an exciting journey ahead to transform Lim Chu Kang to an exciting and endearing agri-food production hub, and I seek your continued support in this meaningful endeavour ahead.    
 
-12. I look forward to hearing your ideas and hope to have a fruitful discussion with everyone today. Thank you. 
+12. I look forward to hearing your ideas and hope to have a fruitful discussion with everyone today. Thank you.
