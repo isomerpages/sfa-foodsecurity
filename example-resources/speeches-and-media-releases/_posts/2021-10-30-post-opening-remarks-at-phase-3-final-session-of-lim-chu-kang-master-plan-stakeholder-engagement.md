@@ -2,9 +2,10 @@
 title: Opening Remarks at Phase 3 final session of Lim Chu Kang Master Plan
   Stakeholder Engagement
 date: 2021-10-30
-permalink: /example-resources/speeches-and-media-releases/permalink
+permalink: /speeches-and-media-releases/30octspeech1
 layout: post
 ---
+
 
 
 ### OPENING REMARKS BY MR DESMOND TAN, MINISTER OF STATE FOR SUSTAINABILITY & THE ENVIRONMENT, AT THE FINAL SESSION OF THE STAKEHOLDER ENGAGEMENTS FOR THE LIM CHU KANG MASTER PLAN ON 30 OCT 2021
