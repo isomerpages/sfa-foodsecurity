@@ -7,14 +7,11 @@ layout: post
 ---
 ##### Opening remarks by Mr Desmond Tan, Minister of State for Sustainability and the Environment, at the final session of the Lim Chu Kang Master Plan Stakeholder Engagement on 30 Oct 2021
 
-**Welcome**
-
 Good morning, everyone. Today is our final engagement session in our collective journey to envision the future of Lim Chu Kang. I thought the farmer in the video said it aptly - “we are transforming Lim Chu Kang not for ourselves, but for the future generations so that their bowls may never be empty”. This has been and will always be our common goal. You can also see animated illustrations of ‘live & play’ elements of cycling paths & farmers’ markets, as well as the centralised shared facilities – these are some of the ideas that you have shared with us as your vision for Lim Chu Kang. 
 
 Once again, thank you for generously sharing your thoughts and time through this five-month journey, which have culminated in your presentations today.  
 
-
-**Seeking stakeholders’ views to incorporate into the Lim Chu Kang master plan**
+##### Seeking stakeholders' views to incorporate into the Lim Chu Kang Master Plan
 
 The Lim Chu Kang Master Plan (LCKMP) Stakeholder Engagement series is part of the SG Together Movement where Singaporeans join the Government to collectively shape the future of Singapore. It is also part of the Singapore Green Plan 2030, our whole-of-nation sustainability movement. I am heartened by the many passionate ideas that you have put forth and we look forward to your recommendations. I would like to assure you that we will assess your recommendations carefully and we will incorporate as many ideas and proposals as possible into our Master Plan. 
 
@@ -22,8 +19,7 @@ LCKMP is an important piece of our Singapore Food Story. Singapore needs to prod
 
 Because of the critical role of Lim Chu Kang, the views of our stakeholders, who are passionate and knowledgeable about agri-food production and sustainability, are important to us. Since the start of our engagement sessions, we have heard from hundreds of participants from all walks of lives, including: those from food and non-food farms, trade associations, urban food solution providers, institutes of higher learning, nature groups, master planning consultants, grassroots leaders, members of parliament, public officers, and members of the public. I would like to thank everyone who have joined us on our engagement journey and have given us valuable feedback, ideas and proposals. 
 
-
-**Understanding different points of view**
+##### Understanding different points of view
 
 The engagement sessions have provided us with interesting insights from different perspectives. The conversations that we have had in the past five months enabled us to understand different perspectives and approaches from various groups, understand and appreciate the trade-offs and opportunities of each idea or proposal.
 
@@ -33,7 +29,7 @@ These discussions have brought to fore the strengths, weaknesses and trade-offs 
 
 I am grateful for the diversity in views expressed by all of you, as it generated greater awareness and understanding of issues of concern to various groups and offered fresh perspectives. What is important is how our continued conversations have led to a convergence of views and allowed us to come up with holistic proposals and ideas that aimed to address the trade-offs and issues and achieve a win-win outcome for all. 
 
-**Closing**
+##### Closing
 
 I am encouraged to hear that some of you have arranged additional discussions on your own accord to refine your proposals. Thank you very much for your passion, dedication and hard work, which underscores the value and importance you place on our food security and the future of Lim Chu Kang. 
 
