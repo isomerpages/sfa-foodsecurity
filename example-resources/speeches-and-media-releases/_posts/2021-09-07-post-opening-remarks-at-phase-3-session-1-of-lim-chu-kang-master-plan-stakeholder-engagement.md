@@ -5,8 +5,7 @@ date: 2021-09-07
 permalink: /speeches-and-media-releases/7sepspeech
 layout: post
 ---
-
-#### OPENING REMARKS BY MS GRACE FU, MINISTER FOR SUSTAINABILITY AND THE ENVIRONMENT, AT THE LIM CHU KANG MASTER PLAN STAKEHOLDER ENGAGEMENT SESSION ON 7 SEPTEMBER 2021 
+##### Opening Remarks by Ms Grace Fu, Minister for Sustainability and the Environment, at the Lim Chu Kang Master Plan Stakeholder Engagement on 7 Sep 2021
 
 Ladies and gentlemen, good evening and a warm welcome. Thank you for taking time to join us for this third phase of stakeholder engagements on the Lim Chu Kang master plan. 
  
