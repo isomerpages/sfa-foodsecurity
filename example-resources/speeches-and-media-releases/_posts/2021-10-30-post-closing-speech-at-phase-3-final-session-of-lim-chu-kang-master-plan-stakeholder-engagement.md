@@ -7,8 +7,6 @@ layout: post
 ---
 ##### Closing speech by Ms Grace Fu, Minister of Sustainability and the Environment, at the final session of the Lim Chu Kang Master Plan Stakeholder Engagement on 30 October 2021
 
-##### Introduction
-
 Thank you very much. I must say that this has been one of the most fruitful engagement sessions I’ve ever attended and it has given me many good ideas. The views that have been presented showed that we have achieved a lot in this process. As some of you have rightly said, whether you are doing economics, experience or engagement or environment, we can see the convergence of different ideas and elements.
  
 We have a very diverse group of stakeholders here. More than 40 of you come from different backgrounds and to have you spend time in this session and outside the session, and arriving at what we have today, I must say that it has been a very successful and fruitful journey. From the very first session of coming together to where we are today, I have witnessed a lot of considerations. It has given us policy makers and regulators many good pieces of advice and food for thought.
