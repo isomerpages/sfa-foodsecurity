@@ -17,7 +17,7 @@ layout: post
 
 **Themes from the LCKMP discussions**
 
-4.	There are many recurring themes that have surfaced during this entire process. Many of you have talked about the importance of heritage, environmental sustainability, and commercial viability – about ways to improve product and processes; and also thoughtful views on security. For example, how can we ensure security of our feed stock, or our seeds. There are certain values that have been quite consistent, and I would like to summarise and share that with you.
+4. There are many recurring themes that have surfaced during this entire process. Many of you have talked about the importance of heritage, environmental sustainability, and commercial viability – about ways to improve product and processes; and also thoughtful views on security. For example, how can we ensure security of our feed stock, or our seeds. There are certain values that have been quite consistent, and I would like to summarise and share that with you.
 
 5.	First, **security**. This LCKMP came from a need to secure local food supply in a world of global warming. Going into the future, how can we ensure the security of our food supply? Some of you have painted a very exciting future for the food industry in Singapore. Not just in the area of production per se, but technology and translational R&D. That is really visionary, because beyond food security we are looking at economic security as well. From this process of coming together, we can give our future generations much more economic opportunities than just food production. 
 
