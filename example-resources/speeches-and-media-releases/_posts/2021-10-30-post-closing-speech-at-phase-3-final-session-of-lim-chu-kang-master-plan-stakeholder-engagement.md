@@ -7,15 +7,15 @@ layout: post
 ---
 ##### Closing speech by Ms Grace Fu, Minister of Sustainability and the Environment, at the final session of the Lim Chu Kang Master Plan Stakeholder Engagement on 30 October 2021
 
-**Introduction**
+##### Introduction
 
 Thank you very much. I must say that this has been one of the most fruitful engagement sessions I’ve ever attended and it has given me many good ideas. The views that have been presented showed that we have achieved a lot in this process. As some of you have rightly said, whether you are doing economics, experience or engagement or environment, we can see the convergence of different ideas and elements.
  
 We have a very diverse group of stakeholders here. More than 40 of you come from different backgrounds and to have you spend time in this session and outside the session, and arriving at what we have today, I must say that it has been a very successful and fruitful journey. From the very first session of coming together to where we are today, I have witnessed a lot of considerations. It has given us policy makers and regulators many good pieces of advice and food for thought.
  
 On behalf of MOS Desmond Tan, I would like to thank all of you, and the team from the Singapore Food Agency (SFA) for giving your precious time during this process. We have learnt so many things from you. And also, thanks to the team at ThinkPlace for guiding us through this process.
- 
- **Themes from the LCKMP discussions**
+
+##### Themes from the LCKMP discussions
  
 There are many recurring themes that have surfaced during this entire process. Many of you have talked about the importance of heritage, environmental sustainability, and commercial viability – about ways to improve product and processes; and also thoughtful views on security. For example, how can we ensure security of our feed stock, or our seeds. There are certain values that have been quite consistent, and I would like to summarise and share that with you.
  
@@ -33,7 +33,7 @@ Finally, **identity**. Some of you have put production at the centre. But I thin
  
 This idea about a collaborative LCK, whether you are a seed producer, hydroponics or aquaponics farmer, requires a sharing mindset. It is about knowledge accumulation and putting out your data for comparison. This value must be the center of this community, it is an identity that we must have. It is about coming together to develop markets, whether it is with consumer, retailer, or supermarkets. I like the idea about us coming together and committing to a purpose. It is about us being socially and environmentally responsible, and therefore do not require a very long and comprehensive set of regulations to dictate what we must do. There is a certain sense that we must do the right thing for the environment, such as treating our water before discharging it into the river system, and protecting Sungei Buloh that is just right at the northern part of us. If we have this common set of values, then it makes for a very strong identity. People will know that when you are in LCK, there are certain standards that are not just dictated by the government, but by the stakeholders themselves. This journey has helped us to do a bit of that, it has set a certain mindset about sharing and what we expect from each other when we operate from LCK. 
  
- **Ideas to follow-up on**
+##### Ideas to follow-up on
  
 It has been most fruitful to go through this exercise with all of you. There are many pieces that will continue this discussion. For example, the first group (Economics group) discussed what this mix-used business hub would do, what would the production and R&D be like, how can we make these pieces come together. You have also given us many good ideas on how we should develop this sector better. We would like to continue working with you to develop these ideas. For example, how can we position ourselves as a knowledge hub for seeds under local growing conditions.  
  
@@ -45,7 +45,7 @@ I’m particularly encouraged by the general consensus that we need to put our e
  
 I like the environment group’s proposal of harnessing data for better transparency and accountability. Therein lies a need for us to have that common understanding. It is one thing for the government to have infrastructure. We also need to have data. If you are a tenant or stakeholder in LCK, you must agree on some extent of data sharing. If we are too protective of data, then it will not be successful. That is an area that we need to have greater conversations in, but we are in the right direction. 
  
- **Conclusion**
+##### Conclusion
  
 I would like to conclude by saying that this LCKMP is as some of you have said, like growing green beans. We are laying the seeds for LCK, and LCK can be many things to many people. But we have a vision that LCK would provide opportunities for food businesses, strengthen food security for future generations, and create economic opportunities for young people who are interested in this field. There are many areas where we can take a living lab approach, whether in waste management, circularity, production, innovation, feedstock innovation, nutrient innovation, process innovation, and energy and water efficiency. These would require research that could go on for a long time. I would like to see LCK become that place where people would come here to not just  produce for the next twenty years, but to produce better and more sustainably, and create good jobs for our people for the next twenty to thirty years. 
  
