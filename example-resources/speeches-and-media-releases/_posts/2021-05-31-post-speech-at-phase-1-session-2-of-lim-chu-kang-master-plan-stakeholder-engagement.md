@@ -1,10 +1,10 @@
 ---
-title: Speech at Second Session of  Lim Chu Kang Master Plan Stakeholder Engagement
+title: Speech at Phase 1 Session 2 of Lim Chu Kang Master Plan Stakeholder Engagement
 date: 2021-05-31
-permalink: /example-resources/speeches-and-media-releases/permalink
+permalink: /speeches-and-media-releases/31mayspeech
 layout: post
 ---
-##### Speech by Mr Desmond Tan, Minister of State for Sustainability and the Environment, at the Second Session of the Stakeholder Engagement for the Lim Chu Kang Master Plan on 31 May 2021
+##### Speech by Mr Desmond Tan, Minister of State for Sustainability and the Environment, at the second session of the Lim Chu Kang Master Plan Stakeholder Engagement on 31 May 2021
 
 Good afternoon. I want to thank all of you for taking time to join us at our second stakeholder engagement session for the Lim Chu Kang master plan. Two weeks ago, Minister Grace Fu launched this series of engagement. At the last session, we had nearly a hundred participants representing a wide array of stakeholders, including local farms, Institutes of Higher Learning, agri-tech urban solution providers, nature groups, master planners and members of public. Today we have around 200 participants on this virtual platform.  Thank you for your support!
 
