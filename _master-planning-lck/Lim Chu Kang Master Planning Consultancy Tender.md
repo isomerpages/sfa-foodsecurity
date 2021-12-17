@@ -9,7 +9,7 @@ This EOI is part of a 2-stage Request for Proposal (RFP) tender process and serv
  
 **Stage 1: Expression of Interest**
 
-At the EOI stage, potential tenderers submit proposals to express interest in undertaking the consultancy. The tenderer for the master plan consultancy services should be a multi-disciplinary team (MDT) with relevant expertise and experience to oversee and successfully develop the master plan for LCK.  Interested tenderers can refer to [Gebiz ](https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml)for the evaluation criteria, detailed specifications and to submit your bid. 
+At the EOI stage, potential tenderers submit proposals to express interest in undertaking the consultancy. The tenderer for the master plan consultancy services should be a multi-disciplinary team (MDT) with relevant expertise and experience to oversee and successfully develop the master plan for LCK.  Interested tenderers can refer to [Gebiz ](https://www.gebiz.gov.sg/ptn/opportunity/opportunityDetails.xhtml?code=SFA000ERF21000003) for the evaluation criteria, detailed specifications and to submit your bid. 
  
 The timeline of the EOI tender process is as follows:
 ![Alt text for image on Isomer site](/images/TimelineEOI.jpg)
