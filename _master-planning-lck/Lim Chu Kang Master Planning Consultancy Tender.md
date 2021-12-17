@@ -22,4 +22,4 @@ Following the EOI, successful shortlisted MDTs will be invited to participate in
  
 The awarded MDT from Stage 2A will proceed to Stage 2B to work together with SFA, other government agencies and stakeholders to develop the Concept Master Plan into a Detailed Master Plan by 2023. 
 
-We welcome interested master planners, urban designers, and architects to tender and help shape our nation's food future. 
+We welcome interested master planners, urban designers, and architects to tender and help shape our nation's food future.
