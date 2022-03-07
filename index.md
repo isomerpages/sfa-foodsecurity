@@ -18,8 +18,9 @@ sections:
         contenteditable="false"></iframe></div>
   - infopic:
       title: Transforming our Aquaculture Industry
-      description: "We are working with farmers to uplift sea-based farming into one
-        that is productive and sustainable to unlock its full potential. "
+      description: "We are working with farmers to uplift the aquaculture industry
+        into one that is productive and sustainable, to unlock the sector's full
+        potential. "
       button: Find out More
       url: https://www.ourfoodfuture.gov.sg/uplifting-aquaculture-industry/overview
       image: /images/apollo.jpg
