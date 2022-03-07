@@ -18,7 +18,7 @@ For new sea spaces, tenders will progressively be launched in the Southern Water
 
 Separately, SFA has reviewed the fish farm licence fees to ensure that it remains relevant and that compliance costs for the industry are minimised. From 1 January 2023, the annual licence fees for sea-based farms will be reduced. 
 
-More details of the upcoming TOL, tenders and reduced licence fees will be made available on our website (www.sfa.gov.sg) when ready. 
+More details of the upcoming TOL, tenders and reduced licence fees will be made available on our website ([www.sfa.gov.sg](https://www.sfa.gov.sg/)) when ready. 
 
 ##### Supporting and Enabling a Productive and Sustainable Aquaculture Sector
 
@@ -43,5 +43,3 @@ For now, read more about the industry and SFA’s efforts:
 •	[Can we enjoy fresh & affordable locally farmed fish in S’pore for the next 20 years?  Yes, with sustainable fish farming. ](https://mothership.sg/2022/02/sustainable-fishing-farms-singapore/)
 
 •	[S’pore waters are teeming with life & used for more purposes than you’d think.](https://mothership.sg/2022/02/singapore-waters-life/)
-
-
