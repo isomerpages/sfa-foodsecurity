@@ -17,6 +17,14 @@ sections:
         allow="encrypted-media; picture-in-picture" allowfullscreen=""
         contenteditable="false"></iframe></div>
   - infopic:
+      title: Transforming our Aquaculture Industry
+      description: "We are working with farmers to uplift sea-based farming into one
+        that is productive and sustainable to unlock its full potential. "
+      button: Find out More
+      url: /uplifting-aquaculture-industry/overview
+      image: /images/apollo.jpg
+      alt: Image alt text
+  - infopic:
       title: "Lim Chu Kang: Our core agri-food hub"
       description: From tapping on technology to R&D, we are working with the industry
         to increase production. We are also optimising our agricultural land
@@ -45,12 +53,4 @@ sections:
   - resources:
       title: View more
       button: more
-  - infopic:
-      title: Transforming our Aquaculture Industry
-      description: "We are working with farmers to uplift sea-based farming into one
-        that is productive and sustainable to unlock its full potential. "
-      button: Find out More
-      url: /uplifting-aquaculture-industry/overview
-      image: /images/apollo.jpg
-      alt: Image alt text
 ---
