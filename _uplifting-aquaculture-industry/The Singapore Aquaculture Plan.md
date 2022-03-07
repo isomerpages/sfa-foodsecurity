@@ -5,12 +5,13 @@ description: ""
 ---
 SFA will be uplifting the aquaculture industry in the coming years through our Singapore Aquaculture Plan (SAP).  Through the SAP, we will focus on productive and sustainable production and unlock the full potential of sea-based fish farming. Strategies include:
 
-
-
+![](/images/COS2micrositev2-03.png)
 
 ##### Unlocking and Optimising Sea Spaces for Aquaculture
 
 As with land, our sea space faces competing uses, such as for maritime, aquaculture, infrastructure and utilities, industry, heritage, education and recreation. We therefore need to ensure that sea spaces allocated to aquaculture are utilised in an optimal way.
+
+![](/images/COS2micrositev2-04.png)
 
 Unlike land-based farms, existing sea-based farms do not have leases that provide greater certainty on the use of their sea space and allow them to better plan and optimise their investments. To provide farmers assurance to make longer-term investments and ensure that the use of sea space is accounted for, Temporary Occupation Licences (TOL) will be introduced for existing sea-based farms from 1 January 2023. 
 
