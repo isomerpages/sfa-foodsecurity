@@ -21,7 +21,7 @@ sections:
       description: "We are working with farmers to uplift sea-based farming into one
         that is productive and sustainable to unlock its full potential. "
       button: Find out More
-      url: /uplifting-aquaculture-industry/overview
+      url: https://www.ourfoodfuture.gov.sg/uplifting-aquaculture-industry/overview
       image: /images/apollo.jpg
       alt: Image alt text
   - infopic:
@@ -47,7 +47,7 @@ sections:
       description: To build up  our capability and capacity to produce 30% of our
         nutritional needs locally and sustainably by 2030.
       alt: Image alt text
-      image: /images/ourfoodfuture2.png
+      image: /images/Picture1.jpg
       button: READ MORE
       url: 30by30
   - resources:
