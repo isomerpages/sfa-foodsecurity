@@ -17,6 +17,15 @@ sections:
         allow="encrypted-media; picture-in-picture" allowfullscreen=""
         contenteditable="false"></iframe></div>
   - infopic:
+      title: Transforming our Aquaculture Industry
+      description: "We are working with farmers to uplift the aquaculture industry
+        into one that is productive and sustainable, to unlock the sector's full
+        potential. "
+      button: Find out More
+      url: https://www.ourfoodfuture.gov.sg/uplifting-aquaculture-industry/overview
+      image: /images/apollo.jpg
+      alt: Image alt text
+  - infopic:
       title: "Lim Chu Kang: Our core agri-food hub"
       description: From tapping on technology to R&D, we are working with the industry
         to increase production. We are also optimising our agricultural land
@@ -39,7 +48,7 @@ sections:
       description: To build up  our capability and capacity to produce 30% of our
         nutritional needs locally and sustainably by 2030.
       alt: Image alt text
-      image: /images/ourfoodfuture2.png
+      image: /images/Picture1.jpg
       button: READ MORE
       url: 30by30
   - resources:

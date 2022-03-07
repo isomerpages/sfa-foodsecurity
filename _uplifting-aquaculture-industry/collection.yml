@@ -1,0 +1,6 @@
+collections:
+  uplifting-aquaculture-industry:
+    output: true
+    order:
+      - Overview.md
+      - The Singapore Aquaculture Plan.md
