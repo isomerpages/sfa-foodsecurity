@@ -22,6 +22,8 @@ Both phases were helmed by Ms Grace Fu, Minister for Sustainability and the Envi
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LsTPwKmvkvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Watch to find out what went on during Phase 1 & 2 of the LCKMP engagement sessions!
 
+#### **Phase 3: Co-Creation**
+
 
 #### What would you want to see in the future Lim Chu Kang?
 
