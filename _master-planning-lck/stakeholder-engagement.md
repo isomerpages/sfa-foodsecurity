@@ -4,11 +4,11 @@ permalink: /master-planning-lck/engagement
 ---
 ![Alt text for image on Isomer site](/images/Stakeholder%20Engagement.png)
 
-In the spirit of the Singapore Together movement, SFA invited industry representatives and members of the public to join SFA in co-creating our vision for Lim Chu Kang. This initiative is part of our ongoing efforts to invite stakeholders to share their views and ideas on how we can raise food production in a sustainable and resource-efficient manner in support of the Singapore Green Plan 2030.
+In the spirit of the Singapore Together movement, SFA invited industry representatives and members of the public to join us in co-creating our vision for Lim Chu Kang. This initiative is part of our ongoing efforts to invite stakeholders to share their views and ideas on how we can raise food production in a sustainable and resource-efficient manner in support of the Singapore Green Plan 2030.
 
 From May to October 2021, stakeholders came together in a series of engagement sessions to identify and discuss ideas to redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all.
 
-![Alt text for image on Isomer site](/images/lckmp%20engagement_updated%2028%20oct-01.png)
+![](/images/lckmp%20roadmap%20draft%202.jpg)
 
 #### **Phase 1: Stakeholder Consultation**
 
