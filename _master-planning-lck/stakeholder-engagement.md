@@ -34,10 +34,14 @@ Participants presented their recommendations to Minister Grace Fu and Minister o
 
 ###### <iframe width="560" height="315" src="https://www.youtube.com/embed/MyaiYQEXr7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Find out what are the key ideas proposed by the groups in Phase 3!
 
+The discussions from Phase 1 and 2 and the final ideas proposed by the five groups in Phase 3 are summarised in the following report:
+
+[Lim Chu Kang Master Plan Engagement Final Report](/files/SFA%20-%20Final%20Report%20-%2015%20Mar%20v0.9.pdf)
+
+Feasible ideas will be incorporated into the LCK master planning consultancy study.
+
 #### What would you want to see in the future Lim Chu Kang?
 
-While the call for participation for our Lim Chu Kang Master Plan stakeholder engagement sessions have closed, you can share your ideas and suggestions with us via SFA's [feedback form](https://sfa.gov.sg/feedback.).
+While the Lim Chu Kang Master Plan stakeholder engagement sessions have concluded, you can still share your ideas and suggestions with us via SFA’s [feedback form](https://sfa.gov.sg/feedback.).
 
-You can also visit SFA's [Facebook page](https://www.facebook.com/SGFoodAgency/) to share your views on the ideas that our Phase 3 participants have come up with!
-
-Lastly, stay tuned to this site for updates on the Lim Chu Kang Master Plan!
+Lastly, stay tuned to this site and SFA’s [Facebook page](https://www.facebook.com/SGFoodAgency/) for updates on the Lim Chu Kang Master Plan!
