@@ -20,10 +20,19 @@ Following the conclusion of the Phase 1 discussions, SFA invited participants to
 
 Both phases were helmed by Ms Grace Fu, Minister for Sustainability and the Environment, and Mr Desmond Tan, Minister of State for Sustainability and the Environment.
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LsTPwKmvkvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Watch to find out what went on during Phase 1 & 2 of the LCKMP engagement sessions!
+###### <iframe width="560" height="315" src="https://www.youtube.com/embed/LsTPwKmvkvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Watch to find out what went on during Phase 1 & 2 of the LCKMP engagement sessions!
 
 #### **Phase 3: Co-Creation**
 
+In Phase 3, selected participants were invited to work in five dedicated groups to deepen their ideas and develop solutions.  They went through four rigorous physical and virtual sessions of problem framing, envisioning, testing and prototyping on the 4 ‘Es’ – Environment, Experience, Engagement and Economics.  Collectively, these four ‘Es’ make up a fifth ‘E’ – the Lim Chu Kang Ecosystem.
+
+###### ![](/images/168A8065.jpg) Participants deep in discussions at the physical session conducted at JEM with MOS Desmond Tan. 
+
+###### ![](/images/SFA%20LCKMP-39.jpg) Minister Grace Fu joining in the discussions at the physical session held at MSE Hall.
+
+Participants presented their recommendations to Minister Grace Fu and Minister of State Desmond Tan at the final session in October 2021.    
+
+###### <iframe width="560" height="315" src="https://www.youtube.com/embed/MyaiYQEXr7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Find out what are the key ideas proposed by the groups in Phase 3!
 
 #### What would you want to see in the future Lim Chu Kang?
 
