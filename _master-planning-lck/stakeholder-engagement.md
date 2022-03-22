@@ -20,8 +20,7 @@ Following the conclusion of the Phase 1 discussions, SFA invited participants to
 
 Both phases were helmed by Ms Grace Fu, Minister for Sustainability and the Environment, and Mr Desmond Tan, Minister of State for Sustainability and the Environment.
  
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/LsTPwKmvkvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-*###### Watch to find out what went on during Phase 1 and 2 of LCKMP engagement sessions!*
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/LsTPwKmvkvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Watch to find out what went on during Phase 1 and 2 of LCKMP engagement sessions!*
 
 #### **Phase 3: Co-Creation**
 
@@ -33,8 +32,7 @@ In Phase 3, selected participants were invited to work in five dedicated groups 
 
 Participants presented their recommendations to Minister Grace Fu and Minister of State Desmond Tan at the final session in October 2021.    
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/MyaiYQEXr7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-*####### Watch to find out what are the key ideas proposed by the groups in Phase 3!*
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/MyaiYQEXr7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Watch to find out what are the key ideas proposed by the groups in Phase 3!*
 
 The discussions from Phase 1 and 2 and the final ideas proposed by the five groups in Phase 3 are summarised in the following report:
 
