@@ -3,7 +3,7 @@ title: The Singapore Aquaculture Plan
 permalink: /uplifting-aquaculture-industry/sg-aquaculture-plan
 description: ""
 ---
-SFA will be uplifting the aquaculture industry in the coming years through our Singapore Aquaculture Plan (SAP).  Through the SAP, we will focus on productive and sustainable production and unlock the full potential of sea-based fish farming. Strategies include:
+SFA will be uplifting the aquaculture industry in the coming years through our [Singapore Aquaculture Plan (SAP)](https://www.mse.gov.sg/resource-room/category/2022-03-07-speech-by-minister-of-state-desmond-tan-at-cos-2022).  Through the SAP, we will focus on productive and sustainable production and unlock the full potential of sea-based fish farming. Strategies include:
 
 ![](/images/COS2micrositev2-03.png)
 
