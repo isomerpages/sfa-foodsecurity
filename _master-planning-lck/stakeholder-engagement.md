@@ -36,7 +36,7 @@ Participants presented their recommendations to Minister Grace Fu and Minister o
 
 The discussions from Phase 1 and 2 and the final ideas proposed by the five groups in Phase 3 are summarised in the following report:
 
-[Lim Chu Kang Master Plan Engagement Final Report](/files/SFA%20-%20Final%20Report%20-%2015%20Mar%20v0.9.pdf)
+[Lim Chu Kang Master Plan Engagement Final Report](/files/Final%20Report%20for%20LCKMP%20Engagement.pdf)
 
 Feasible ideas will be incorporated into the LCK master planning consultancy study.
 
