@@ -1,6 +1,6 @@
 ---
 title: Stakeholder Engagement
-permalink: /master-planning-lck/engagement
+permalink: /master-planning-lck/engagement/
 ---
 ![Alt text for image on Isomer site](/images/Stakeholder%20Engagement.png)
 
@@ -40,8 +40,4 @@ The discussions from Phase 1 and 2 and the final ideas proposed by the five grou
 
 Feasible ideas will be incorporated into the LCK master planning consultancy study.
 
-#### What would you want to see in the future Lim Chu Kang?
-
-While the Lim Chu Kang Master Plan stakeholder engagement sessions have concluded, you can still share your ideas and suggestions with us via SFA’s [feedback form](https://sfa.gov.sg/feedback.).
-
-Lastly, stay tuned to this site and SFA’s [Facebook page](https://www.facebook.com/SGFoodAgency/) for updates on the Lim Chu Kang Master Plan!
+Stay tuned to this site and SFA’s [Facebook page](https://www.facebook.com/SGFoodAgency/) for updates on the Lim Chu Kang Master Plan!
