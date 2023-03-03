@@ -23,7 +23,7 @@ sections:
         potential. "
       button: Find out More
       url: https://www.ourfoodfuture.gov.sg/uplifting-aquaculture-industry/overview
-      image: /images/apollo.jpg
+      image: /images/Aquaculture.jpg
       alt: Singapore Aquaculture Plan
   - infopic:
       title: "Lim Chu Kang: Our core agri-food hub"
