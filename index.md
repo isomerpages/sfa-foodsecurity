@@ -24,30 +24,29 @@ sections:
       button: Find out More
       url: https://www.ourfoodfuture.gov.sg/uplifting-aquaculture-industry/overview
       image: /images/apollo.jpg
-      alt: Image alt text
+      alt: Singapore Aquaculture Plan
   - infopic:
       title: "Lim Chu Kang: Our core agri-food hub"
       description: From tapping on technology to R&D, we are working with the industry
         to increase production. We are also optimising our agricultural land
         such as the Lim Chu Kang area to grow more with less.
       button: Our Vision
-      alt: Image alt text
+      alt: Lim Chu Kang master plan
       image: /images/ourfoodfuture-3.png
       url: master-planning-lck/ourvision
   - infopic:
       title: How can you contribute?
-      description: Whether you're a farmer, student or consumer - no matter your
-        background or interest, you can contribute to shaping Singapore's food
-        future.
-      alt: Image alt text
-      image: /images/ourfoodfuture-4.jpeg
+      description: "Whether you’re a consumer or food business, you can support local
+        farms to help  strengthen Singapore’s food security. "
+      alt: Singapore Fresh Produce badges
+      image: /images/SGFP logos.jpg
       button: Play a part
       url: https://www.ourfoodfuture.gov.sg/get-involved/whatyoucando
   - infopic:
-      title: What is our '30 by 30' target?
-      description: To build up  our capability and capacity to produce 30% of our
-        nutritional needs locally and sustainably by 2030.
-      alt: Image alt text
+      title: What is our '30 by 30' goal?
+      description: To build our capability and capacity to sustainably produce 30% of
+        our nutritional needs by 2030
+      alt: Our '30 by 30' goal
       image: /images/Picture1.jpg
       button: READ MORE
       url: 30by30
