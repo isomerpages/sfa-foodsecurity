@@ -8,13 +8,13 @@ In the spirit of the Singapore Together movement, SFA invited industry represent
 
 From May to October 2021, stakeholders came together in a series of engagement sessions to identify and discuss ideas to redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all.
 
-![LCKMP stakeholder engagement roadmap]()
+![Lim Chu Kang stakeholder engagement roadmap](/images/lckmp%20roadmap%20resized.jpg)
 
 #### **Phase 1 & 2: Stakeholder Consultation and Consensus Building**
 
 Over four sessions from May to June, over 300 stakeholders participated in Phase 1 of the Lim Chu Kang Master Plan (LCKMP) engagement sessions.  They came from different professions, industry and backgrounds such as farmers, educators, nature groups, solution providers, ecosystem players, members of the public and public officers gathered online to exchange views and ideas on Singapore’s food security and the Lim Chu Kang master plan.
  
-![Virtual LCKMP engagement session]()
+![A virtual Lim Chu Kang Master Plan engagement session](/images/Virtual%20LCKMP%20engagement%20session.jpg)
  
 Following the conclusion of the Phase 1 discussions, SFA invited participants to continue the LCKMP journey with us and deepen the discussion of key themes drawn from earlier conversations in Phase 2 of the Stakeholder Engagement series.  About 150 stakeholders participated in the three sessions which spanned over the month of July 2021.
 
@@ -26,10 +26,11 @@ Both phases were helmed by Ms Grace Fu, Minister for Sustainability and the Envi
 
 In Phase 3, selected participants were invited to work in five dedicated groups to deepen their ideas and develop solutions.  They went through four rigorous physical and virtual sessions of problem framing, envisioning, testing and prototyping on the 4 ‘Es’ – Environment, Experience, Engagement and Economics.  Collectively, these four ‘Es’ make up a fifth ‘E’ – the Lim Chu Kang Ecosystem.
 
-![Discussion session at JEM]() *Participants deep in discussions at the physical session conducted at JEM with MOS Desmond Tan. *
+![A discussion session on the Lim Chu Kang Master Plan](/images/Discussion%20session%20at%20JEM.jpg)
+*Participants deep in discussions at the physical session conducted at JEM with MOS Desmond Tan.*
 
-![LCKMP engagement with Minister Grace Fu]()
-Minister Grace Fu joining in the discussions at the physical session held at MSE Hall.
+![An engagement session with Minister Grace Fu on the Lim Chu Kang Master Plan](/images/LCKMP%20engagement%20with%20Minister%20Grace%20Fu.jpg)
+*Minister Grace Fu joining in the discussions at the physical session held at MSE Hall.*
 
 Participants presented their recommendations to Minister Grace Fu and Minister of State Desmond Tan at the final session in October 2021.    
 
@@ -39,6 +40,6 @@ The discussions from Phase 1 and 2 and the final ideas proposed by the five grou
 
 [Lim Chu Kang Master Plan Engagement Final Report](/files/Final%20Report%20for%20LCKMP%20Engagement.pdf)
 
-Feasible ideas will be incorporated into the LCK master planning consultancy study.
+Feasible ideas will be incorporated into the LCK master planning consultancy study. Some of these ideas will be shown in the LCK Master Plan exhibition in the second half of 2023.
 
 Stay tuned to this site and SFA’s [Facebook page](https://www.facebook.com/SGFoodAgency/) for updates on the Lim Chu Kang Master Plan!
