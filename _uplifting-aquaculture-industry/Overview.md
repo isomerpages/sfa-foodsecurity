@@ -7,7 +7,7 @@ description: ""
 *Locally farmed red snappers*
 
 
-Singapore imports more than 90 per cent of our food. This makes us vulnerable to food supply chain disruptions that could occur due to global factors such as climate change, disease outbreaks, geopolitical developments or export restrictions by foreign governments. To ensure our food resilience, we have set a 30 by 30 goal to build the capability and capacity of our agri-food industry to sustainably produce 30 per cent of our nutritional needs by 2030. 
+Singapore imports more than 90% of our food. This makes us vulnerable to food supply chain disruptions that could occur due to global factors such as climate change, disease outbreaks, geopolitical developments or export restrictions by foreign governments. To ensure our food resilience, we have set a 30 by 30 goal to build the capability and capacity of our agri-food industry to sustainably produce 30% of our nutritional needs by 2030. 
 
   
 
