@@ -8,13 +8,13 @@ In the spirit of the Singapore Together movement, SFA invited industry represent
 
 From May to October 2021, stakeholders came together in a series of engagement sessions to identify and discuss ideas to redevelop Lim Chu Kang into Singapore’s flagship agri-food production hub of the future that is vibrant, innovative, sustainable, and accessible to all.
 
-![](/images/lckmp%20roadmap%20draft%202.jpg)
+![LCKMP stakeholder engagement roadmap]()
 
 #### **Phase 1 & 2: Stakeholder Consultation and Consensus Building**
 
 Over four sessions from May to June, over 300 stakeholders participated in Phase 1 of the Lim Chu Kang Master Plan (LCKMP) engagement sessions.  They came from different professions, industry and backgrounds such as farmers, educators, nature groups, solution providers, ecosystem players, members of the public and public officers gathered online to exchange views and ideas on Singapore’s food security and the Lim Chu Kang master plan.
  
-![](/images/Picture1.png)
+![Virtual LCKMP engagement session]()
  
 Following the conclusion of the Phase 1 discussions, SFA invited participants to continue the LCKMP journey with us and deepen the discussion of key themes drawn from earlier conversations in Phase 2 of the Stakeholder Engagement series.  About 150 stakeholders participated in the three sessions which spanned over the month of July 2021.
 
@@ -26,9 +26,10 @@ Both phases were helmed by Ms Grace Fu, Minister for Sustainability and the Envi
 
 In Phase 3, selected participants were invited to work in five dedicated groups to deepen their ideas and develop solutions.  They went through four rigorous physical and virtual sessions of problem framing, envisioning, testing and prototyping on the 4 ‘Es’ – Environment, Experience, Engagement and Economics.  Collectively, these four ‘Es’ make up a fifth ‘E’ – the Lim Chu Kang Ecosystem.
 
-###### ![](/images/168A8065.jpg) Participants deep in discussions at the physical session conducted at JEM with MOS Desmond Tan. 
+![Discussion session at JEM]() *Participants deep in discussions at the physical session conducted at JEM with MOS Desmond Tan. *
 
-###### ![](/images/SFA%20LCKMP-39.jpg) Minister Grace Fu joining in the discussions at the physical session held at MSE Hall.
+![LCKMP engagement with Minister Grace Fu]()
+Minister Grace Fu joining in the discussions at the physical session held at MSE Hall.
 
 Participants presented their recommendations to Minister Grace Fu and Minister of State Desmond Tan at the final session in October 2021.    
 
