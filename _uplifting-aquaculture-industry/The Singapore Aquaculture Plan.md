@@ -35,7 +35,7 @@ SFA has been conducting studies and surveys to identify suitable sea-based farmi
 
 #### Help industry adopt technology and better farm practices
 
-SFA has been working with sea-based farms to improve their farming and management practices, as well as leverage science and technology, to help raise farms’ productivity and sustainability. Farms can tap on the S$60 million Agri-Food Cluster Transformation (ACT) Fund which co-funds the adoption of productive, resource-efficient, and sustainable farming technologies and systems. 
+SFA has been working with sea-based farms to improve their farming and management practices, as well as leverage science and technology, to help raise farms’ productivity and sustainability. Farms can tap on the S$60 million [Agri-food Cluster Transformation (ACT) Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund) which co-funds the adoption of productive, resource-efficient, and sustainable farming technologies and systems. 
 
 To encourage the adoption of sustainable sea-based farming management methods, SFA has been encouraging fish farms to use pelleted feed, that can minimise the environmental impact. SFA will also deploy real-time water quality monitoring stations and conduct routine sampling of other water and seabed quality parameters around our farming areas to monitor the overall health of our marine environment. This would serve as an early warning system for adverse environmental conditions such as low dissolved oxygen, and in turn safeguard our farms’ production. 
 
