@@ -1,46 +1,51 @@
 ---
 title: The Singapore Aquaculture Plan
-permalink: /uplifting-aquaculture-industry/sg-aquaculture-plan
+permalink: /uplifting-aquaculture-industry/sg-aquaculture-plan/
 description: ""
 ---
-SFA will be uplifting the aquaculture industry in the coming years through our [Singapore Aquaculture Plan (SAP)](https://www.mse.gov.sg/resource-room/category/2022-03-07-speech-by-minister-of-state-desmond-tan-at-cos-2022).  Through the SAP, we will focus on productive and sustainable production and unlock the full potential of sea-based fish farming. Strategies include:
+The Singapore Aquaculture Plan will transform the sector in key three ways:
+1. Investing in research and innovation
+2. Increasing and optimising spaces for aquaculture
+3. Helping the industry adopt technology and better farm practices
 
-![](/images/COS2micrositev2-03.png)
+#### Invest in research and innovation
 
-##### Unlocking and Optimising Sea Spaces for Aquaculture
+Research and innovation are key enablers to transform our industry towards our 30 by 30 goal. The Government is investing in sustainable tropical aquaculture and has allocated over S$60 million to aquaculture research and innovation under the [Singapore Food Story R&D Programme](https://www.sfa.gov.sg/food-farming/singapore-food-story/r-and-d-programme).
 
-As with land, our sea space faces competing uses, such as for maritime, aquaculture, infrastructure and utilities, industry, heritage, education and recreation. We therefore need to ensure that sea spaces allocated to aquaculture are utilised in an optimal way.
+The Singapore Food Agency (SFA) introduced an aquaculture research development programme – the Aquapolis – in November 2022 to support Singapore in becoming a leading research and innovation hub for sustainable tropical aquaculture. 
 
-![](/images/COS2micrositev2-04.png)
+The AquaPolis programme aims to transform the aquaculture research landscape by bringing together research institutes, Institutions of Higher Learning, farms and companies to reap strategic synergies in developing innovative aquaculture solutions. Scientists from the SFA and research institutions such as Temasek Life Sciences Laboratory and National University of Singapore will come together to serve as the brain trust of the AquaPolis. They will develop solutions for real world aquaculture challenges, with the objective of addressing farms’ problem statements. For example, scientists will look into developing superior fingerlings with traits such as faster growth rates, higher Omega-3 content and reduction in fish mortality from common fish diseases. 
 
-Unlike land-based farms, existing sea-based farms do not have leases that provide greater certainty on the use of their sea space and allow them to better plan and optimise their investments. To provide farmers assurance to make longer-term investments and ensure that the use of sea space is accounted for, Temporary Occupation Licences (TOL) will be introduced for existing sea-based farms from 1 January 2023. 
+The programme will also cultivate talent for the local aquaculture sector. 
 
-For new sea spaces, tenders will progressively be launched in the Southern Waters and East Johor Straits from end-2022 on a 20 -year lease, with an option to extend another 10 years. The longer lease duration will provide farms with certainty on the tenure of sea spaces and facilitate long-term planning and investments.
+AquaPolis’ research activities will span across Singapore, from land-based research institutions to the Johor Straits and Southern Waters where our sea-based fish farms operate. SFA’s Marine Aquaculture Centre (MAC) at St. John’s Island, which aims to deepen Singapore’s expertise in the areas of aquaculture genetics, nutrition, and health, will serve as AquaPolis’ anchor research campus. 
 
-Separately, SFA has reviewed the fish farm licence fees to ensure that it remains relevant and that compliance costs for the industry are minimised. From 1 January 2023, the annual licence fees for sea-based farms will be reduced. 
+![Map of the Singapore Aquaculture Plan](/images/SAP.png)
+*The Singapore Aquaculture Plan will comprise 3 distinct centres – the West Johor Strait, East Johor Strait, and AquaPolis in the Southern Waters.*
 
-More details of the upcoming TOL, tenders and reduced licence fees will be made available on our website ([www.sfa.gov.sg](https://www.sfa.gov.sg/)) when ready. 
+AquaPolis researchers can build on MAC’s expertise in fish husbandry to develop solutions. MAC also provides shared facilities such as replicated tank systems and biological materials such as eggs, larvae, rotifers and microalgae for research. In addition, there are designated incubator space for start-ups to testbed and commercialise R&D results. These inputs of husbandry-related expertise, shared facilities, incubator space and access to biological materials will enable researchers in Singapore to conduct aquaculture R&D and translate the results.
 
-##### Supporting and Enabling a Productive and Sustainable Aquaculture Sector
+To support Singapore’s ambitions to lead in aquaculture research and innovation, SFA will enhance our facilities to attract companies and researchers to base themselves in Singapore. As the anchor research campus of AquaPolis, MAC’s facilities will be enhanced to cater to R&D needs, with upgrades such as the installation of recirculating aquaculture systems for research in intensive farming within closed environments. 
 
-###### ![](/images/Eco-Ark.png) Eco-Ark, a local sea-based farm with a floating closed-containment aquaculture system that protects fish from adverse external environment and raises productivity in creating an optimal controlled environment for fish farming. 
+As part of longer-term planning to support the aquaculture sector and Singapore’s food security vision, SFA will also review how our research facilities could be developed and integrated with other aquaculture infrastructure such as jetties and hatcheries in the future. 
 
-SFA has been studying various aspects of aquaculture production in coastal waters, with the aim of growing aquaculture production in a sustainable manner.  In 2018, we commissioned a study which showed that a higher level of fish production can be supported sustainably in Singapore’s waters if appropriate management methods and farming practices are implemented.  
+#### Increase and optimise spaces for aquaculture
 
-###### ![](/images/MOS%20Fish%20farm.jpg) Minister of State Desmond Tan with SFA staff on one of the many sea-based farm visits to understand their challenges and to encourage the adoption of technology and more sustainable practices.
+SFA has been conducting studies and surveys to identify suitable sea-based farming sites. In the next few years, SFA will launch new sea spaces on 20+10 year leases to provide farmers with certainty on the tenure of sea spaces, and a longer runway to amortise their investments in high-tech, productive and sustainable farming systems. 
 
-We have been engaging the aquaculture industry on sea-based farming management methods and measures to facilitate the adoption of more sustainable practices in support of higher production. These include monitoring the impact of aquaculture activities, measures to prevent and control the spread of fish diseases, and the use of better feed. This will help sea-based fish farms enhance their business resilience by improving the yield and survival rate of their fish and ensuring that our surrounding waters are not degraded over time. In turn, we can improve the productivity and sustainability of our sea spaces. Farmers can tap on SFA’s [Agri-Food Cluster Transformation Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund) to upscale technology, innovate & test-bed and upgrade capability to grow more with less, sustainably.  
+#### Help industry adopt technology and better farm practices
 
-##### Building a Tropical Aquaculture Hub Together 
+SFA has been working with sea-based farms to improve their farming and management practices, as well as leverage science and technology, to help raise farms’ productivity and sustainability. Farms can tap on the S$60 million [Agri-food Cluster Transformation (ACT) Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund) which co-funds the adoption of productive, resource-efficient, and sustainable farming technologies and systems. 
 
-The transformation of our aquaculture industry has just begun. SFA will continue to work with farms to develop the potential of Singapore’s aquaculture industry. In tandem, demand from consumers is also key to sustaining a healthy and vibrant agri-food ecosystem. [Buying local produce ](https://www.ourfoodfuture.gov.sg/get-involved/whatyoucando)will directly support the operations of our farms and spur them to improve productivity to meet increased demand and adopt sustainable practices. This will, in turn, contribute to strengthening our food security. Consumers can identify local produce through the following badges on the packaging. 
+To encourage the adoption of sustainable sea-based farming management methods, SFA has been encouraging fish farms to use pelleted feed, that can minimise the environmental impact. SFA will also deploy real-time water quality monitoring stations and conduct routine sampling of other water and seabed quality parameters around our farming areas to monitor the overall health of our marine environment. This would serve as an early warning system for adverse environmental conditions such as low dissolved oxygen, and in turn safeguard our farms’ production. 
 
-###### ![](/images/SFA%206-Sheet%20Group%20KV%20FA.jpg) More about the SG Fresh Produce Badges can be found[ here](https://www.sfa.gov.sg/fromSGtoSG) 
+To provide farmers with an overview of the procedures and regulatory requirements involved in setting up a sea-based farm in Singapore, SFA launched an [industry guide for sea-based farms](https://www.sfa.gov.sg/food-farming/food-farms/starting-a-sea-based-fish-culture-farm) in November 2022. In addition to providing biosecurity guidelines for aquaculture farms, SFA will also provide [aquatic animal health services](https://www.sfa.gov.sg/docs/default-source/default-document-library/aahs-fact-sheet.pdf) (AAHS) to help farms strengthen biosecurity so that they can prevent and control diseases in their farms. 
 
-Stay tuned to our [Facebook](https://www.facebook.com/SGFoodAgency) &  [Instagram](https://www.instagram.com/sgfoodagency/) pages and [Food For Thought](https://www.sfa.gov.sg/food-for-thought) digital publication for updates as we continue to work closely with the industry to grow more with less, sustainably! 
+![Aquatic Animal Health Services by SFA](/images/AAHS.jpg)
+*The Aquatic Animal Health Services by SFA will allow farms to consult veterinarians or aquatic animal health professionals on disease management and support their testing needs.* 
 
-For now, read more about the industry and SFA’s efforts: 
+#### A leader in sustainable tropical aquaculture
 
-•	[Can we enjoy fresh & affordable locally farmed fish in S’pore for the next 20 years?  Yes, with sustainable fish farming. ](https://mothership.sg/2022/02/sustainable-fishing-farms-singapore/)
+Our vision is to grow the aquaculture industry into a sustainable sector contributing to our food security, and eventually a leader in sustainable tropical aquaculture. SFA will continue to work with the industry to develop the potential of Singapore’s aquaculture sector by transforming it to become more productive and sustainable.
 
-•	[S’pore waters are teeming with life & used for more purposes than you’d think.](https://mothership.sg/2022/02/singapore-waters-life/)
+Stay tuned to our [Facebook](https://www.facebook.com/SGFoodAgency) & [Instagram](https://www.instagram.com/sgfoodagency/) pages and [Food For Thought](https://www.sfa.gov.sg/food-for-thought) digital publication for updates as we continue to work closely with the industry to grow more with less, sustainably!

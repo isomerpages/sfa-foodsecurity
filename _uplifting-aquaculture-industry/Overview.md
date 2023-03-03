@@ -1,12 +1,18 @@
 ---
 title: Overview
-permalink: /uplifting-aquaculture-industry/overview
+permalink: /uplifting-aquaculture-industry/overview/
 description: ""
 ---
-#### Singapore's Aquaculture Industry
+![Locally farmed red snappers](/images/Locally%20farmed%20red%20snappers.jpg)
+*Locally farmed red snappers*
 
-###### ![](/images/PRIME_Threadfin%20Harvesting%20DSC_9380.jpg) Harvesting of Threadfins, one of the commonly grown fish species locally on Prime Aquaculture Farm.
 
-Fish is a commonly consumed source of protein that can be grown locally in a productive and sustainable manner. With over 100 aquaculture farms in Singapore, the aquaculture sector plays an important role in strengthening our food security as local food production mitigates our reliance on imports and serves as a buffer during supply disruptions from import sources, which is an increasing concern amid climate change. 
+Singapore imports more than 90% of our food. This makes us vulnerable to food supply chain disruptions that could occur due to global factors such as climate change, disease outbreaks, geopolitical developments or export restrictions by foreign governments. To ensure our food resilience, we have set a 30 by 30 goal to build the capability and capacity of our agri-food industry to sustainably produce 30% of our nutritional needs by 2030. 
 
-SFA plans to uplift the local aquaculture industry in a productive and sustainable manner. This is part of our [30 by 30 goal](https://www.ourfoodfuture.gov.sg/30by30) - to build the industry’s capability and capacity to produce 30% of our nutritional needs locally and sustainably by 2030.
+  
+
+Singapore’s aquaculture sector contributes significantly to our 30 by 30 goal. As one of the more productive and resource-efficient food types, seafood is good source of protein and suitable for land-scarce Singapore. 
+
+  
+
+To uplift the local aquaculture sector, the Singapore Food Agency (SFA) has developed the Singapore Aquaculture Plan that seeks to transform the aquaculture sector to become more productive and sustainable.
