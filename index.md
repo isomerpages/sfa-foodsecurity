@@ -38,7 +38,6 @@ sections:
       description: "Whether you’re a consumer or food business, you can support local
         farms to help  strengthen Singapore’s food security. "
       alt: Singapore Fresh Produce badges
-      image: /images/SGFP logos.jpg
       button: Play a part
       url: https://www.ourfoodfuture.gov.sg/get-involved/whatyoucando
   - infopic:
