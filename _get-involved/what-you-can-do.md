@@ -17,7 +17,7 @@ Supported by the Singapore Food Agency (SFA) and other government agencies, the 
 ##### Why support local?
 
 ![Why support local](/images/supportlocal.jpg)
-*Find out how you can get your hands on fresh, locally farmed eggs, leafy greens, fish and more here.*
+*Find out how you can get your hands on fresh, locally farmed eggs, leafy greens, fish and more [here](https://www.sfa.gov.sg/fromSGtoSG/where-to-buy).*
 
 #### Are you interested in an agri-food career?
 
