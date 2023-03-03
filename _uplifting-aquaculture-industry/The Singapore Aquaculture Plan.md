@@ -42,7 +42,7 @@ To encourage the adoption of sustainable sea-based farming management methods, S
 To provide farmers with an overview of the procedures and regulatory requirements involved in setting up a sea-based farm in Singapore, SFA launched an [industry guide for sea-based farms](https://go.gov.sg/seafarmindustryguide22nov22) in November 2022. In addition to providing biosecurity guidelines for aquaculture farms, SFA will also provide [aquatic animal health services](https://www.sfa.gov.sg/docs/default-source/default-document-library/aahs-fact-sheet.pdf) (AAHS) to help farms strengthen biosecurity so that they can prevent and control diseases in their farms. 
 
 ![Aquatic Animal Health Services by SFA](/images/AAHS.jpg)
-*The Aquatic Animal Health Services by SFA will allow farms to consult veterinarians or aquatic animal health professionals on disease management and support their testing needs. *
+*The Aquatic Animal Health Services by SFA will allow farms to consult veterinarians or aquatic animal health professionals on disease management and support their testing needs.* 
 
 #### A leader in sustainable tropical aquaculture
 
