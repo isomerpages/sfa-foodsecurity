@@ -19,7 +19,7 @@ Supported by the Singapore Food Agency (SFA) and other government agencies, the 
 ![Why support local](/images/supportlocal.jpg)
 *Find out how you can get your hands on fresh, locally farmed eggs, leafy greens, fish and more [here](https://www.sfa.gov.sg/fromSGtoSG/where-to-buy).*
 
-#### Are you interested in an agri-food career?
+#### Are you... interested in an agri-food career?
 
 As the agri-food sector transforms towards the use of more productive, innovative and resource efficient technologies, there will be new and growing demand for specialists in agri- and aquaculture who are skilled in science, engineering, and info-communications, including genetics, automation and internet of things. 
 
