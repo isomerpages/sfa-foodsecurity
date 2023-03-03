@@ -3,9 +3,6 @@ title: Overview
 permalink: /uplifting-aquaculture-industry/overview/
 description: ""
 ---
-#### Singapore's Aquaculture Industry
-
- 
 ![Locally farmed red snappers](/images/Locally%20farmed%20red%20snappers.jpg)
 *Locally farmed red snappers*
 
