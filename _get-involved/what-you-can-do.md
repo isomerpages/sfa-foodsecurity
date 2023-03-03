@@ -16,7 +16,7 @@ Supported by the Singapore Food Agency (SFA) and other government agencies, the 
 
 ##### Why support local?
 
-![Why support local]()
+![Why support local](/images/supportlocal.jpg)
 *Find out how you can get your hands on fresh, locally farmed eggs, leafy greens, fish and more here.*
 
 #### Are you interested in an agri-food career?
@@ -30,5 +30,3 @@ In 2022, SFA partnered Workforce Singapore and Republic Polytechnic (RP) to laun
 From April 2023, the Institute of Technical Education (ITE) will offer a Work-Study Diploma in Agriculture & Aquaculture Technology. The Diploma will equip in-service employees and fresh ITE Nitec and Higher Nitec graduates with engineering skills to operate high-tech agriculture and aquaculture systems, and with knowledge for food crops cultivation and fish farm management.
 
 Come join this exciting sector and contribute to Singapore’s food resilience!
-
-
