@@ -32,7 +32,6 @@ sections:
         such as the Lim Chu Kang area to grow more with less.
       button: Our Vision
       alt: Lim Chu Kang master plan
-      image: /images/ourfoodfuture-3.png
       url: master-planning-lck/ourvision
   - infopic:
       title: How can you contribute?
