@@ -46,9 +46,7 @@ To provide farmers with an overview of the procedures and regulatory requirement
 
 #### A leader in sustainable tropical aquaculture
 
-```
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1o9w3gn6k2U" height="315" width="560"></iframe>
-```
 
 Our vision is to grow the aquaculture industry into a sustainable sector contributing to our food security, and eventually a leader in sustainable tropical aquaculture. SFA will continue to work with the industry to develop the potential of Singapore’s aquaculture sector by transforming it to become more productive and sustainable.
 
