@@ -6,13 +6,15 @@ permalink: /get-involved/whatyoucando/
 
 Every action can go a long way in supporting our local farmers. With our local farms building greater capability and capacity towards Singapore’s 30 by 30 goal, they will need the corresponding consumer and commercial demand for their produce.
 
-The Hotel, Restaurants, and Catering (HoReCa) sector and local consumers can do their part to support and buy local produce. The next time you’re shopping for groceries or looking for suppliers, look out for the bright red SG Fresh Produce badges which indicate that the produce was grown locally by our farmers or from local farms with certification for quality assurance or sustainable schemes.
+The next time you’re shopping for groceries, look out for the bright red SG Fresh Produce badges which indicate that the produce was grown locally by our farmers or from local farms with certification for quality assurance or sustainable schemes.
 
 ![Positive attributes of the Singapore Fresh Produce logos](/images/SGFP%20logos%20step%20up.jpg)
 
-In February 2022, a new Alliance for Action (AfA) on “Demand Offtake and Consumer Education” was formed, as part of the Forward SG conversation. 
+You can also look out for the Farm-to-Table (FTT) Recognition Programme logo. Launched in March 2023, the FTT Recognition Programme encourages the Hotel, Restaurants and Catering (HoReCa) sector to use locally farmed produce in their menus. It recognises HoReCa businesses that procure at least 15 per cent of their fresh produce ingredients in procurement value from local farms which produce hen shell eggs, leafy vegetable, beansprouts or fish. 
 
-Supported by the Singapore Food Agency (SFA) and other government agencies, the AfA will see members of the agri-food industry come together to develop solutions to increase the commercial demand of local agricultural produce, and encourage consumers to support local produce. They will co-create practical solutions to aggregate supply from farms to match the demand of the HoReCa sector, and to help consumers understand the relevance and importance of supporting local produce. 
+![Farm-to-Table Recognition Programme tiering](/images/farm-to-table%20recognition%20programme.png)
+
+The FTT Recognition Programme logo is a mark of assurance and HoReCa businesses can use it to display their commitment to use local produce and boost our nation's food security. Food businesses can find out more about the FTT Recognition Programme and how to apply [here](https://www.sfa.gov.sg/food-farming/sgfoodstory/supporting-local-produce#farm-to-table-recognition-programme). 
 
 ##### Why support local?
 
@@ -29,4 +31,4 @@ In 2022, SFA partnered Workforce Singapore and Republic Polytechnic (RP) to laun
 
 From April 2023, the Institute of Technical Education (ITE) will offer a Work-Study Diploma in Agriculture & Aquaculture Technology. The Diploma will equip in-service employees and fresh ITE Nitec and Higher Nitec graduates with engineering skills to operate high-tech agriculture and aquaculture systems, and with knowledge for food crops cultivation and fish farm management.
 
-Come join this exciting sector and contribute to Singapore’s food resilience!
+Come join this exciting sector and contribute to Singapore’s food security!
