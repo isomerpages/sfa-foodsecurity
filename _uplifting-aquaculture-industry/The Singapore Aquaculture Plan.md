@@ -3,16 +3,18 @@ title: The Singapore Aquaculture Plan
 permalink: /uplifting-aquaculture-industry/sg-aquaculture-plan/
 description: ""
 ---
-The Singapore Aquaculture Plan will transform the sector in key three ways:
+The Singapore Aquaculture Plan will transform the sector in three key ways:
 1. Investing in research and innovation
 2. Increasing and optimising spaces for aquaculture
 3. Helping the industry adopt technology and better farm practices
 
 #### Invest in research and innovation
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1o9w3gn6k2U" height="315" width="560"></iframe>
+
 Research and innovation are key enablers to transform our industry towards our 30 by 30 goal. The Government is investing in sustainable tropical aquaculture and has allocated over S$60 million to aquaculture research and innovation under the [Singapore Food Story R&amp;D Programme](https://www.sfa.gov.sg/food-farming/singapore-food-story/r-and-d-programme).
 
-The Singapore Food Agency (SFA) introduced an aquaculture research development programme – the Aquapolis – in November 2022 to support Singapore in becoming a leading research and innovation hub for sustainable tropical aquaculture. 
+The Singapore Food Agency (SFA) introduced an aquaculture research development programme – Aquapolis – in November 2022 to support Singapore in becoming a leading research and innovation hub for sustainable tropical aquaculture. 
 
 The AquaPolis programme aims to transform the aquaculture research landscape by bringing together research institutes, Institutions of Higher Learning, farms and companies to reap strategic synergies in developing innovative aquaculture solutions. Scientists from the SFA and research institutions such as Temasek Life Sciences Laboratory and National University of Singapore will come together to serve as the brain trust of the AquaPolis. They will develop solutions for real world aquaculture challenges, with the objective of addressing farms’ problem statements. For example, scientists will look into developing superior fingerlings with traits such as faster growth rates, higher Omega-3 content and reduction in fish mortality from common fish diseases. 
 
@@ -45,8 +47,6 @@ To provide farmers with an overview of the procedures and regulatory requirement
 *The Aquatic Animal Health Services by SFA will allow farms to consult veterinarians or aquatic animal health professionals on disease management and support their testing needs.* 
 
 #### A leader in sustainable tropical aquaculture
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1o9w3gn6k2U" height="315" width="560"></iframe>
 
 Our vision is to grow the aquaculture industry into a sustainable sector contributing to our food security, and eventually a leader in sustainable tropical aquaculture. SFA will continue to work with the industry to develop the potential of Singapore’s aquaculture sector by transforming it to become more productive and sustainable.
 
