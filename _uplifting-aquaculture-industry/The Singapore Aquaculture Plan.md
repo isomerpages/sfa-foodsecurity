@@ -3,16 +3,18 @@ title: The Singapore Aquaculture Plan
 permalink: /uplifting-aquaculture-industry/sg-aquaculture-plan/
 description: ""
 ---
-The Singapore Aquaculture Plan will transform the sector in key three ways:
+The Singapore Aquaculture Plan will transform the sector in three key ways:
 1. Investing in research and innovation
 2. Increasing and optimising spaces for aquaculture
 3. Helping the industry adopt technology and better farm practices
 
 #### Invest in research and innovation
 
-Research and innovation are key enablers to transform our industry towards our 30 by 30 goal. The Government is investing in sustainable tropical aquaculture and has allocated over S$60 million to aquaculture research and innovation under the [Singapore Food Story R&D Programme](https://www.sfa.gov.sg/food-farming/singapore-food-story/r-and-d-programme).
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1o9w3gn6k2U" height="315" width="560"></iframe>
 
-The Singapore Food Agency (SFA) introduced an aquaculture research development programme – the Aquapolis – in November 2022 to support Singapore in becoming a leading research and innovation hub for sustainable tropical aquaculture. 
+Research and innovation are key enablers to transform our industry towards our 30 by 30 goal. The Government is investing in sustainable tropical aquaculture and has allocated over S$60 million to aquaculture research and innovation under the [Singapore Food Story R&amp;D Programme](https://www.sfa.gov.sg/food-farming/singapore-food-story/r-and-d-programme).
+
+The Singapore Food Agency (SFA) introduced an aquaculture research development programme – Aquapolis – in November 2022 to support Singapore in becoming a leading research and innovation hub for sustainable tropical aquaculture. 
 
 The AquaPolis programme aims to transform the aquaculture research landscape by bringing together research institutes, Institutions of Higher Learning, farms and companies to reap strategic synergies in developing innovative aquaculture solutions. Scientists from the SFA and research institutions such as Temasek Life Sciences Laboratory and National University of Singapore will come together to serve as the brain trust of the AquaPolis. They will develop solutions for real world aquaculture challenges, with the objective of addressing farms’ problem statements. For example, scientists will look into developing superior fingerlings with traits such as faster growth rates, higher Omega-3 content and reduction in fish mortality from common fish diseases. 
 
@@ -23,9 +25,9 @@ AquaPolis’ research activities will span across Singapore, from land-based res
 ![Map of the Singapore Aquaculture Plan](/images/SAP.png)
 *The Singapore Aquaculture Plan will comprise 3 distinct centres – the West Johor Strait, East Johor Strait, and AquaPolis in the Southern Waters.*
 
-AquaPolis researchers can build on MAC’s expertise in fish husbandry to develop solutions. MAC also provides shared facilities such as replicated tank systems and biological materials such as eggs, larvae, rotifers and microalgae for research. In addition, there are designated incubator space for start-ups to testbed and commercialise R&D results. These inputs of husbandry-related expertise, shared facilities, incubator space and access to biological materials will enable researchers in Singapore to conduct aquaculture R&D and translate the results.
+AquaPolis researchers can build on MAC’s expertise in fish husbandry to develop solutions. MAC also provides shared facilities such as replicated tank systems and biological materials such as eggs, larvae, rotifers and microalgae for research. In addition, there are designated incubator space for start-ups to testbed and commercialise R&amp;D results. These inputs of husbandry-related expertise, shared facilities, incubator space and access to biological materials will enable researchers in Singapore to conduct aquaculture R&amp;D and translate the results.
 
-To support Singapore’s ambitions to lead in aquaculture research and innovation, SFA will enhance our facilities to attract companies and researchers to base themselves in Singapore. As the anchor research campus of AquaPolis, MAC’s facilities will be enhanced to cater to R&D needs, with upgrades such as the installation of recirculating aquaculture systems for research in intensive farming within closed environments. 
+To support Singapore’s ambitions to lead in aquaculture research and innovation, SFA will enhance our facilities to attract companies and researchers to base themselves in Singapore. As the anchor research campus of AquaPolis, MAC’s facilities will be enhanced to cater to R&amp;D needs, with upgrades such as the installation of recirculating aquaculture systems for research in intensive farming within closed environments. 
 
 As part of longer-term planning to support the aquaculture sector and Singapore’s food security vision, SFA will also review how our research facilities could be developed and integrated with other aquaculture infrastructure such as jetties and hatcheries in the future. 
 
@@ -48,4 +50,4 @@ To provide farmers with an overview of the procedures and regulatory requirement
 
 Our vision is to grow the aquaculture industry into a sustainable sector contributing to our food security, and eventually a leader in sustainable tropical aquaculture. SFA will continue to work with the industry to develop the potential of Singapore’s aquaculture sector by transforming it to become more productive and sustainable.
 
-Stay tuned to our [Facebook](https://www.facebook.com/SGFoodAgency) & [Instagram](https://www.instagram.com/sgfoodagency/) pages and [Food For Thought](https://www.sfa.gov.sg/food-for-thought) digital publication for updates as we continue to work closely with the industry to grow more with less, sustainably!
+Stay tuned to our [Facebook](https://www.facebook.com/SGFoodAgency) &amp; [Instagram](https://www.instagram.com/sgfoodagency/) pages and [Food For Thought](https://www.sfa.gov.sg/food-for-thought) digital publication for updates as we continue to work closely with the industry to grow more with less, sustainably!
