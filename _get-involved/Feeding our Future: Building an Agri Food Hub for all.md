@@ -30,11 +30,9 @@ Join us at our exhibition at SAFRA Choa Chu Kang this September to learn more ab
 6 September: 9am to 2pm  
 
 **Farmers' Market:** 
-
 2 and 3 September, 9am – 2pm
 
 **Venue: **
-
 SAFRA Choa Chu Kang, 28 Choa Chu Kang Dr, Singapore 689964
 
 A loop shuttle bus service (Choa Chu Kang MRT, SAFRA CCK and Bukit Panjang MRT) will be available from 8.45am to 2.45pm on 2 and 3 September.
