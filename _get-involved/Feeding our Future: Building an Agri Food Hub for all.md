@@ -6,7 +6,6 @@ description: Join us at our exhibition at SAFRA Choa Chu Kang this September to
   agri-food hub at Lim Chu Kang to feed our future!
 image: /images/feeding our future event banner.jpg
 ---
-
 ![Feeding our Future: Building an Agri-Food Hub for all](/images/feeding%20our%20future%20banner%202.jpg)
 ##### Today, more than 90% of Singapore’s food comes from abroad. What if this supply is disrupted? 
 
@@ -39,4 +38,4 @@ SAFRA Choa Chu Kang, 28 Choa Chu Kang Dr, Singapore 689964
 
 A loop shuttle bus service (Choa Chu Kang MRT, SAFRA CCK and Bukit Panjang MRT) will be available from 8.45am to 2.45pm on 2 and 3 September.
 
-*Participate in the exciting “Agri-Food Adventure” challenge by completing simple tasks at stations to collect stamps and stand a chance to win prizes. *
+*Participate in the exciting Agri-Food Adventure challenge by completing simple tasks at stations to collect stamps and stand a chance to win prizes. *
