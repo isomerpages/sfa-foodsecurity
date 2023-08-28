@@ -36,6 +36,6 @@ Join us at our exhibition at SAFRA Choa Chu Kang this September to learn more ab
 **Venue:**
 SAFRA Choa Chu Kang, 28 Choa Chu Kang Dr, Singapore 689964
 
-A loop shuttle bus service (Choa Chu Kang MRT, SAFRA CCK and Bukit Panjang MRT) will be available from 8.45am to 2.45pm on 2 and 3 September.
+A loop shuttle bus service (Choa Chu Kang MRT, SAFRA CCK and Bukit Panjang MRT) will be available from 8.45am to 8pm on 2 and 3 September.
 
 *Participate in the exciting Agri-Food Adventure challenge by completing simple tasks at stations to collect stamps and stand a chance to win prizes.*
