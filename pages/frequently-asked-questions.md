@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /faqs
+permalink: /faqs/
 ---
 ### Lim Chu Kang Master Plan
 ##### 1. I missed the signups for the Lim Chu Kang Master Plan StakeHolder Engagement sessions. Can I still participate?

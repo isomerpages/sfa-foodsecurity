@@ -2,7 +2,7 @@
 title: Master Plan Exercise To Transform Lim Chu Kang Into A High Tech Agri Food
   Cluster
 date: 2020-10-02
-permalink: /speeches-and-media-releases/lckmasterplan
+permalink: /speeches-and-media-releases/lckmasterplan/
 ---
 ##### Master Plan Exercise to Transform Lim Chu Kang into a High-Tech Agri-Food Cluster
 *Master planning public infrastructure and building shared facilities to uplift the agrifood sector, boost food production and create good green jobs for Singaporeans*

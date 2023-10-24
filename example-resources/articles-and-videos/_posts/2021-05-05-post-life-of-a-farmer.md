@@ -1,7 +1,7 @@
 ---
 title: Life Of A Farmer
 date: 2021-05-05
-permalink: /articles-and-videos/lifeofafarmer
+permalink: /articles-and-videos/lifeofafarmer/
 ---
 ##### Dive Into The World of Fish Farming
 

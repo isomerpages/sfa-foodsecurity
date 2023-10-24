@@ -1,7 +1,7 @@
 ---
 title: From Farm to Fork
 date: 2021-05-05
-permalink: /videos/fromfarmtofork
+permalink: /videos/fromfarmtofork/
 ---
 ##### The Journey of a Local Bok Choy
 

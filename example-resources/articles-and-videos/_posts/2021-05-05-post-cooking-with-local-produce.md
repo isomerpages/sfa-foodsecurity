@@ -1,7 +1,7 @@
 ---
 title: Cooking With Local Produce
 date: 2021-05-05
-permalink: /videos/localproducerecipes
+permalink: /videos/localproducerecipes/
 ---
 #### SFA x Singapore Chefs' Association Recipes
 

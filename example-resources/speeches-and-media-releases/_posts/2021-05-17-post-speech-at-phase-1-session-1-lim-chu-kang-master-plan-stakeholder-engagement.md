@@ -1,7 +1,7 @@
 ---
 title: Speech at Phase 1 Session 1 Lim Chu Kang Master Plan Stakeholder Engagement
 date: 2021-05-17
-permalink: /speeches-and-media-releases/17mayspeech
+permalink: /speeches-and-media-releases/17mayspeech/
 layout: post
 ---
 ##### Speech by Ms Grace Fu, Minister for Sustainability and the Environment, at the first session of the Lim Chu Kang Master Plan Stakeholder Engagement on 17 May 2021
