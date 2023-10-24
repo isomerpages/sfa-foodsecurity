@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://sfa-foodsecurity-staging.netlify.app
-prod: https://sfa-foodsecurity-prod.netlify.app
+staging: https://staging.d1jrosfon05jzt.amplifyapp.com/
+prod: https://master.d1jrosfon05jzt.amplifyapp.com/
 is_government: true
 shareicon: /images/foodfuture.png
