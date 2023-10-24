@@ -8,7 +8,7 @@ Every action can go a long way in supporting our local farmers. With our local f
 
 The next time you’re shopping for groceries, look out for the bright red SG Fresh Produce badges which indicate that the produce was grown locally by our farmers or from local farms with certification for quality assurance or sustainable schemes.
 
-![Positive attributes of the Singapore Fresh Produce logos](/images/SGFP%20logos%20step%20up.jpg)
+![Positive attributes of the Singapore Fresh Produce logos](/images/sgfp%20logos%20step%20up.jpg)
 
 You can also look out for the Farm-to-Table (FTT) Recognition Programme logo. Launched in March 2023, the FTT Recognition Programme encourages the Hotel, Restaurants and Catering (HoReCa) sector to use locally farmed produce in their menus. It recognises HoReCa businesses that procure at least 15 per cent of their fresh produce ingredients in procurement value from local farms which produce hen shell eggs, leafy vegetable, beansprouts or fish. 
 

@@ -3,7 +3,7 @@ title: Overview
 permalink: /uplifting-aquaculture-industry/overview/
 description: ""
 ---
-![Locally farmed red snappers](/images/Locally%20farmed%20red%20snappers.jpg)
+![Locally farmed red snappers](/images/locally%20farmed%20red%20snappers.jpg)
 *Locally farmed red snappers*
 
 

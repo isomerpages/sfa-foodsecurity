@@ -23,7 +23,7 @@ sections:
         potential.
       button: Find out More
       url: https://www.ourfoodfuture.gov.sg/uplifting-aquaculture-industry/overview
-      image: /images/Aquaculture.jpg
+      image: /images/aquaculture.jpg
       alt: Singapore Aquaculture Plan
   - infopic:
       title: "Lim Chu Kang: Our core agri-food hub"
@@ -41,13 +41,13 @@ sections:
       alt: Singapore Fresh Produce badges
       button: Play a part
       url: https://www.ourfoodfuture.gov.sg/get-involved/whatyoucando
-      image: /images/SGFP logos.png
+      image: /images/sgfp logos.png
   - infopic:
       title: What is our '30 by 30' goal?
       description: To build our capability and capacity to sustainably produce 30% of
         our nutritional needs by 2030
       alt: Our '30 by 30' goal
-      image: /images/Picture1.jpg
+      image: /images/picture1.jpg
       button: READ MORE
       url: 30by30
   - resources:

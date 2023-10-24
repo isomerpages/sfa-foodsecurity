@@ -22,4 +22,4 @@ While agri-food production will be the key focus of the master plan exercise, we
 
 When redeveloped, the Lim Chu Kang agri-food zone can potentially produce more than three times its current food production capacity. This will contribute to our efforts in boosting our food security.
 
-![Area in Lim Chu Kang to be master planned](/images/LCKMP%20map-01.png)
+![Area in Lim Chu Kang to be master planned](/images/lckmp%20map-01.png)
