@@ -1,0 +1,12 @@
+logo: /images/sfa logo.png
+links:
+  - title: Uplifting Aquaculture
+    collection: uplifting-aquaculture-industry
+  - title: Master Planning Lim Chu Kang
+    collection: master-planning-lck
+  - title: Get Involved
+    collection: get-involved
+  - title: 30 by 30
+    url: /30by30
+  - title: Resources
+    resource_room: true
