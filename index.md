@@ -10,12 +10,12 @@ sections:
       title: SHAPING OUR FOOD FUTURE
       background: /images/ourfoodfuture1.png
   - infobar:
-      title: "Feeding our Future: Building an Agri-Food Hub for all"
-      description: Visit our exhibition from 2-6 Sep 2023 to learn more about the
-        Singapore Food Story, and what it takes to build an agri-food hub that
-        will feed our future.
-      button: Find out more
-      url: https://www.ourfoodfuture.gov.sg/get-involved/feedingourfuture/
+      title: How do you envision our food future to be?
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/HauZJhlDoZ8?si=RyE9BXFuHOi2mep0"
+        height="315" width="560"></iframe>
   - infopic:
       title: Transforming our Aquaculture Industry
       description: We are working with farmers to uplift the aquaculture industry into
