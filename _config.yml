@@ -1,6 +1,6 @@
 title: Our Food Future
 url: ""
-favicon: /images/SFA%20logo-01.png
+favicon: /images/sfa%20logo-01.png
 colors:
   primary-color: "#f57e23"
   secondary-color: "#f5a623"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://sfa-foodsecurity-staging.netlify.app
-prod: https://sfa-foodsecurity-prod.netlify.app
+staging: https://staging.d1jrosfon05jzt.amplifyapp.com/
+prod: https://master.d1jrosfon05jzt.amplifyapp.com/
 is_government: true
 shareicon: /images/foodfuture.png

@@ -5,8 +5,9 @@ permalink: /contact-us/
 agency_name: SFA
 contacts:
   - content:
-      - phone: ""
-      - email: our_food_future@sfa.gov.sg
-      - other: go.gov.sg/lckmpideas
-    title: Share your ideas
+      - phone: +65 6805 2871
+      - email: ""
+      - other: ""
+    title: Contact Centre
+feedback: https://csp.sfa.gov.sg/feedback
 ---

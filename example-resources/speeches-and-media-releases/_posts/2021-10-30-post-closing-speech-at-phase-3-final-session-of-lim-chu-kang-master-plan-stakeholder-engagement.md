@@ -2,7 +2,7 @@
 title: Closing Speech at Phase 3 Final Session of Lim Chu Kang Master Plan
   Stakeholder Engagement
 date: 2021-10-30
-permalink: /speeches-and-media-releases/30octspeech2
+permalink: /speeches-and-media-releases/30octspeech2/
 layout: post
 ---
 ##### Closing speech by Ms Grace Fu, Minister of Sustainability and the Environment, at the final session of the Lim Chu Kang Master Plan Stakeholder Engagement on 30 October 2021

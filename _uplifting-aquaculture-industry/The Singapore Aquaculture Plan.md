@@ -22,7 +22,7 @@ The programme will also cultivate talent for the local aquaculture sector.
 
 AquaPolis’ research activities will span across Singapore, from land-based research institutions to the Johor Straits and Southern Waters where our sea-based fish farms operate. SFA’s Marine Aquaculture Centre (MAC) at St. John’s Island, which aims to deepen Singapore’s expertise in the areas of aquaculture genetics, nutrition, and health, will serve as AquaPolis’ anchor research campus. 
 
-![Map of the Singapore Aquaculture Plan](/images/SAP.png)
+![Map of the Singapore Aquaculture Plan](/images/sap.png)
 *The Singapore Aquaculture Plan will comprise 3 distinct centres – the West Johor Strait, East Johor Strait, and AquaPolis in the Southern Waters.*
 
 AquaPolis researchers can build on MAC’s expertise in fish husbandry to develop solutions. MAC also provides shared facilities such as replicated tank systems and biological materials such as eggs, larvae, rotifers and microalgae for research. In addition, there are designated incubator space for start-ups to testbed and commercialise R&amp;D results. These inputs of husbandry-related expertise, shared facilities, incubator space and access to biological materials will enable researchers in Singapore to conduct aquaculture R&amp;D and translate the results.
@@ -43,7 +43,7 @@ To encourage the adoption of sustainable sea-based farming management methods, S
 
 To provide farmers with an overview of the procedures and regulatory requirements involved in setting up a sea-based farm in Singapore, SFA launched an [industry guide for sea-based farms](https://www.sfa.gov.sg/food-farming/food-farms/starting-a-sea-based-fish-culture-farm) in November 2022. In addition to providing biosecurity guidelines for aquaculture farms, SFA will also provide [aquatic animal health services](https://www.sfa.gov.sg/docs/default-source/default-document-library/aahs-fact-sheet.pdf) (AAHS) to help farms strengthen biosecurity so that they can prevent and control diseases in their farms. 
 
-![Aquatic Animal Health Services by SFA](/images/AAHS.jpg)
+![Aquatic Animal Health Services by SFA](/images/aahs.jpg)
 *The Aquatic Animal Health Services by SFA will allow farms to consult veterinarians or aquatic animal health professionals on disease management and support their testing needs.* 
 
 #### A leader in sustainable tropical aquaculture

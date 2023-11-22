@@ -1,7 +1,7 @@
 ---
 title: Speech at Phase 1 Session 2 of Lim Chu Kang Master Plan Stakeholder Engagement
 date: 2021-05-31
-permalink: /speeches-and-media-releases/31mayspeech
+permalink: /speeches-and-media-releases/31mayspeech/
 layout: post
 ---
 ##### Speech by Mr Desmond Tan, Minister of State for Sustainability and the Environment, at the second session of the Lim Chu Kang Master Plan Stakeholder Engagement on 31 May 2021
