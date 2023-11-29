@@ -2,6 +2,7 @@ collections:
   master-planning-lck:
     output: true
     order:
+      - "Feeding our Future: Building an Agri Food Hub for All.md"
       - our-vision.md
       - stakeholder-engagement.md
       - Lim Chu Kang Master Planning Consultancy Tender.md
