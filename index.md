@@ -9,13 +9,15 @@ sections:
   - hero:
       title: SHAPING OUR FOOD FUTURE
       background: /images/ourfoodfuture1.png
-  - infobar:
-      title: How do you envision our food future to be?
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/HauZJhlDoZ8?si=RyE9BXFuHOi2mep0"
-        height="315" width="560"></iframe>
+  - infopic:
+      title: 65 Years of Safe and Secure Food Supply
+      subtitle: Add an image and text
+      id: infopic
+      description: Join us at Our Tampines Hub on 14 - 15 September 2024 to
+        commemorate this milestone!
+      button: Find out more
+      url: https://www.sfa.gov.sg
+      alt: Image alt text
   - infopic:
       title: Transforming our Aquaculture Industry
       description: We are working with farmers to uplift the aquaculture industry into
