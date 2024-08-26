@@ -4,6 +4,7 @@ permalink: /65-years-of-safe-and-secure-food-supply/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <p>This year, we commemorate 65 Years of Safe and Secure Food Supply!</p>
 <p></p>
 <p>Join us on 14 and 15 September 2024 at Our Tampines Hub to learn more
