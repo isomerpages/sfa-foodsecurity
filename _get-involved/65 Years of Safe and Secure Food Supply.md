@@ -28,7 +28,7 @@ local farmers and support our freshly harvested local produce!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p>Date:</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>14 <strong>and 15 September 2024</strong>
@@ -55,7 +55,7 @@ local farmers and support our freshly harvested local produce!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
+<p><strong>Venue:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
