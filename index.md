@@ -11,7 +11,6 @@ sections:
       background: /images/ourfoodfuture1.png
   - infopic:
       title: 65 Years of Safe and Secure Food Supply
-      subtitle: Add an image and text
       id: infopic
       description: Join us at Our Tampines Hub on 14 - 15 September 2024 to
         commemorate this milestone!
