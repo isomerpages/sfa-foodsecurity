@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/65_Years_event_banner.jpg">
+</div>
 <p>This year, we commemorate 65 Years of Safe and Secure Food Supply!</p>
 <p></p>
 <p>Join us on 14 and 15 September 2024 at Our Tampines Hub to learn more
