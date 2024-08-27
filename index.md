@@ -15,9 +15,8 @@ sections:
       description: Join us at Our Tampines Hub on 14 - 15 September 2024 to
         commemorate this milestone!
       button: Find out more
-      url: https://www.sfa.gov.sg
-      image: /images/65_Years_homepage_banner.jpg
-      alt: 65 Years event banner
+      url: https://www.ourfoodfuture.gov.sg/65-years-of-safe-and-secure-food-supply/
+      image: /images/65_Years_event_banner.jpg
   - infopic:
       title: Transforming our Aquaculture Industry
       description: We are working with farmers to uplift the aquaculture industry into
