@@ -16,7 +16,7 @@ sections:
         commemorate this milestone!
       button: Find out more
       url: https://www.sfa.gov.sg
-      image: /images/65_Years_event_banner.jpg
+      image: /images/65_Years_homepage_banner.jpg
   - infopic:
       title: Transforming our Aquaculture Industry
       description: We are working with farmers to uplift the aquaculture industry into
