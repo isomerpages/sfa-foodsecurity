@@ -18,6 +18,7 @@ sections:
       button: Find out more
       url: https://www.sfa.gov.sg
       alt: Image alt text
+      image: /images/202411_SFA_65_Years_2024__FB_COVER___820px_X_360px_.jpg
   - infopic:
       title: Transforming our Aquaculture Industry
       description: We are working with farmers to uplift the aquaculture industry into
