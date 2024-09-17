@@ -2,5 +2,4 @@ collections:
   get-involved:
     output: true
     order:
-      - 65 Years of Safe and Secure Food Supply.md
       - what-you-can-do.md
