@@ -1,10 +1,11 @@
 ---
 title: What You Can Do
 permalink: /get-involved/whatyoucando/
+variant: markdown
 ---
 #### Are you a… consumer or food business?
 
-Every action can go a long way in supporting our local farmers. With our local farms building greater capability and capacity towards Singapore’s 30 by 30 goal, they will need the corresponding consumer and commercial demand for their produce.
+Every action can go a long way in supporting our local farmers. With our local farms building greater capability and capacity, they will need the corresponding consumer and commercial demand for their produce.
 
 The next time you’re shopping for groceries, look out for the bright red SG Fresh Produce badges which indicate that the produce was grown locally by our farmers or from local farms with certification for quality assurance or sustainable schemes.
 

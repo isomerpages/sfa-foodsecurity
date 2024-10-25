@@ -44,9 +44,9 @@ sections:
       url: https://www.ourfoodfuture.gov.sg/get-involved/whatyoucando
       image: /images/sgfp logos.png
   - infopic:
-      title: What is our '30 by 30' goal?
-      description: To build our capability and capacity to sustainably produce 30% of
-        our nutritional needs by 2030
+      title: Local production
+      description: Building up our agri-food industry’s capability and capacity to
+        grow more food with fewer resources while protecting our environment
       alt: Our '30 by 30' goal
       image: /images/picture1.jpg
       button: READ MORE
