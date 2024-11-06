@@ -46,11 +46,11 @@ sections:
   - infopic:
       title: Local production
       description: Building up our agri-food industry’s capability and capacity to
-        grow more food with fewer resources while protecting our environment
+        grow more food with fewer resources while protecting our environment.
       alt: Our '30 by 30' goal
       image: /images/picture1.jpg
       button: READ MORE
-      url: 30by30
+      url: /growing-local
   - resources:
       title: View more
       button: more

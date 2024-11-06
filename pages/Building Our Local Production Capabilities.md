@@ -1,6 +1,6 @@
 ---
 title: Building Our Local Production Capabilities
-permalink: /30by30/
+permalink: /growing-local/
 variant: tiptap
 description: ""
 ---
@@ -31,7 +31,7 @@ farms!</p>
 </div>
 <h4>Transforming Our Agri-Food Industry</h4>
 <p>To support the industry in its transformation into one that is highly
-productive, climate-resilient, and resource-efficient, the SFA is employing
+productive, climate-resilient, and resource-efficient, SFA is employing
 the following strategies:</p>
 <ol data-tight="true" class="tight">
 <li>
