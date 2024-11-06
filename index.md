@@ -50,7 +50,7 @@ sections:
       alt: Our '30 by 30' goal
       image: /images/picture1.jpg
       button: READ MORE
-      url: 30by30
+      url: /growing-local
   - resources:
       title: View more
       button: more
