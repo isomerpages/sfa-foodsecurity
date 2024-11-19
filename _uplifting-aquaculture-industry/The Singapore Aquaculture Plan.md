@@ -16,4 +16,6 @@ The SAP is a collaborative effort of SFA and key stakeholders to establish a com
 	
 The SAP will help to transform the aquaculture industry into a more productive and sustainable sector, underpinned by several guiding principles. This includes the careful consideration of competing sea space uses and ecological sensitivities when selecting sites, based on outcome- and science-based sustainable production methods. The industry will also be supported by the development of essential infrastructure, progressive regulations, and science and technology. Throughout this process, there will be collaboration across the ecosystem to foster innovative solutions.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mKC0FA1bzvM?si=qylQVtHwBcNmKqqr" height="315" width="560"></iframe>
+
 **To read more about SAP, [download the paper here.](https://www.sfa.gov.sg/docs/default-source/singapore-aquaculture-plan/singapore-aquaculture-plan.pdf)**
