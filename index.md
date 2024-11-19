@@ -23,7 +23,7 @@ sections:
         one that is productive and sustainable, to unlock the sector's full
         potential.
       button: Find out More
-      url: https://www.ourfoodfuture.gov.sg/uplifting-aquaculture-industry/overview
+      url: https://www.ourfoodfuture.gov.sg/uplifting-aquaculture-industry/sg-aquaculture-plan/
       image: /images/aquaculture.jpg
       alt: Singapore Aquaculture Plan
   - infopic:
