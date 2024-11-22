@@ -10,6 +10,8 @@ Singapore imports more than 90% of its food, which makes us vulnerable to food s
 
 However, Singapore’s aquaculture industry faces several challenges including limited sea space, suboptimal water quality, demands to mitigate its impact on the environment, and a limited domestic market with strong import competition. To uplift the local aquaculture sector, the Singapore Aquaculture Plan (SAP) was launched in November 2024.
 
+![SAP Launch](/images/SAP_Launch_2024_38_copy_2.jpg)
+
 The SAP is a collaborative effort of SFA and key stakeholders to establish a comprehensive blueprint for the future of aquaculture in Singapore. It provides guidance to stakeholders including industry players, researchers, Government agencies, nature groups, and consumers. The SAP will be revised regularly to align with industry advancements and to facilitate ongoing coordination among stakeholders.
 
 ![](/images/SAP1.jpg)
