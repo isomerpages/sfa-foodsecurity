@@ -4,11 +4,15 @@ title: Our Food Future
 description: Let's shape the future of our food story together
 image: /images/foodfuture.png
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information, visit the ScamShield website at https://www.scamshield.gov.sg/.
 sections:
   - hero:
       title: SHAPING OUR FOOD FUTURE
       background: /images/ourfoodfuture1.png
+      variant: center
   - infobar:
       title: How do you envision our food future to be?
       id: infobar
