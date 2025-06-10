@@ -1,9 +1,9 @@
 title: Our Food Future
-url: ""
+url: https://www.ourfoodfuture.gov.sg
 favicon: /images/sfa%20logo-01.png
 colors:
-  primary-color: "#f57e23"
-  secondary-color: "#f5a623"
+  primary-color: "#f5a623"
+  secondary-color: "#f57e23"
   media-colors:
     - title: media-color-one
       color: "#6d7072"
@@ -55,3 +55,6 @@ staging: https://staging.d1jrosfon05jzt.amplifyapp.com/
 prod: https://master.d1jrosfon05jzt.amplifyapp.com/
 is_government: true
 shareicon: /images/foodfuture.png
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
